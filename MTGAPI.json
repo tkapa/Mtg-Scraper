@@ -1,0 +1,2873 @@
+[
+    {
+        "Artist": "Min Yum",
+        "Description": "FlyingWhen Angel of Sanctions enters the battlefield, you may exile target nonland permanent an opponent controls until Angel of Sanctions leaves the battlefield.Embalm {5}{W} ({5}{W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Angel with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/1.html",
+        "Mana Cost": "3WW",
+        "Name": "Angel of Sanctions",
+        "Rarity": "Mythic Rare",
+        "Type": "Creature \u2014 Angel 3/4"
+    },
+    {
+        "Artist": "Lake Hurwitz",
+        "Description": "Whenever a creature token enters the battlefield under your control, you gain 1 life.Embalm {3}{W} ({3}{W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/3.html",
+        "Mana Cost": "1W",
+        "Name": "Anointer Priest",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Human Cleric 1/3"
+    },
+    {
+        "Artist": "Eric Deschamps",
+        "Description": "Flash (You may cast this spell any time you could cast an instant.)FlyingIf an opponent would search a library, that player searches the top four cards of that library instead.",
+        "Flavour Text": "\"The only question we need to ask is how best to fulfill the will of the God-Pharaoh.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/5.html",
+        "Mana Cost": "2W",
+        "Name": "Aven Mindcensor",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Bird Wizard 2/1"
+    },
+    {
+        "Artist": "Kieran Yanner",
+        "Description": "Enchant creature you controlWhen Cartouche of Solidarity enters the battlefield, create a 1/1 white Warrior creature token with vigilance.Enchanted creature gets +1/+1 and has first strike.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/7.html",
+        "Mana Cost": "W",
+        "Name": "Cartouche of Solidarity",
+        "Rarity": "Common",
+        "Type": "Enchantment \u2014 Aura Cartouche"
+    },
+    {
+        "Artist": "Eric Deschamps",
+        "Description": "Enchant creatureEnchanted creature can't attack or block.Enchanted creature has \"{2}, Sacrifice this creature: You gain 2 life.\"",
+        "Flavour Text": "The pain of death is nothing compared to the pain of failure.",
+        "Image URL": "http://magiccards.info/scans/akh/en/9.html",
+        "Mana Cost": "1W",
+        "Name": "Compulsory Rest",
+        "Rarity": "Common",
+        "Type": "Enchantment \u2014 Aura"
+    },
+    {
+        "Artist": "Kieran Yanner",
+        "Description": "Untap target creature. Prevent all damage that would be dealt to it this turn.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "\"When I wish to be strong, I train. When I wish to be wise, I study. When I wish to rest, I start again.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/11.html",
+        "Mana Cost": "W",
+        "Name": "Djeru's Resolve",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Steve Argyle",
+        "Description": "Exile target artifact or enchantment.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "\"Why cling to these trappings? They are but tools and affectations. True wealth can be possessed only in the afterlife.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/13.html",
+        "Mana Cost": "2W",
+        "Name": "Forsake the Worldly",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Daarken",
+        "Description": "As Gideon's Intervention enters the battlefield, choose a card name.Your opponents can't cast spells with the chosen name.Prevent all damage that would be dealt to you and permanents you control by sources with the chosen name.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/15.html",
+        "Mana Cost": "2WW",
+        "Name": "Gideon's Intervention",
+        "Rarity": "Rare",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Jason Rainville",
+        "Description": "You may exert Gust Walker as it attacks. When you do, it gets +1/+1 and gains flying until end of turn. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "\"I'm never unarmed.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/17.html",
+        "Mana Cost": "1W",
+        "Name": "Gust Walker",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Human Wizard 2/2"
+    },
+    {
+        "Artist": "Nils Hamm",
+        "Description": "Zombies you control get +2/+1 until end of turn. Other creatures you control get +1/+1 until end of turn.",
+        "Flavour Text": "\"A single grain of sand is insignificant, but a sandstorm can reduce pyramids to dust. Stand with your crop. Become the storm.\"\u2014Oketra, god of solidarity",
+        "Image URL": "http://magiccards.info/scans/akh/en/19.html",
+        "Mana Cost": "1W",
+        "Name": "In Oketra's Name",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Chase Stone",
+        "Description": "Double strike, indestructibleOketra the True can't attack or block unless you control at least three other creatures.{3}{W}: Create a 1/1 white Warrior creature token with vigilance.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/21.html",
+        "Mana Cost": "3W",
+        "Name": "Oketra the True",
+        "Rarity": "Mythic Rare",
+        "Type": "Legendary Creature \u2014 God 3/6"
+    },
+    {
+        "Artist": "Ryan Alexander Lee",
+        "Description": "If a source an opponent controls would deal damage to you, prevent 1 of that damage.",
+        "Flavour Text": "Part of the acolytes' training is to walk along the Hekma, staring out at the ravenous horrors kept at bay by the God-Pharaoh's barrier.",
+        "Image URL": "http://magiccards.info/scans/akh/en/23.html",
+        "Mana Cost": "4W",
+        "Name": "Protection of the Hekma",
+        "Rarity": "Uncommon",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Wesley Burt",
+        "Description": "You gain 6 life.Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)When you cycle Renewed Faith, you may gain 2 life.",
+        "Flavour Text": "\"To see gods among the people, part of their daily lives . . . It's inspiring.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/25.html",
+        "Mana Cost": "2W",
+        "Name": "Renewed Faith",
+        "Rarity": "Uncommon",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Zezhou Chen",
+        "Description": "LifelinkEmbalm {W} ({W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Cat with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/27.html",
+        "Mana Cost": "W",
+        "Name": "Sacred Cat",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Cat 1/1"
+    },
+    {
+        "Artist": "Ryan Pancoast",
+        "Description": "When Sparring Mummy enters the battlefield, untap target creature.",
+        "Flavour Text": "Aspiring to earn their place in the afterlife, acolytes train every day against those who fell short of that glory.",
+        "Image URL": "http://magiccards.info/scans/akh/en/29.html",
+        "Mana Cost": "3W",
+        "Name": "Sparring Mummy",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Zombie 3/3"
+    },
+    {
+        "Artist": "Raoul Vitale",
+        "Description": "FlyingYou may exert Tah-Crop Elite as it attacks. When you do, creatures you control get +1/+1 until end of turn. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/31.html",
+        "Mana Cost": "3W",
+        "Name": "Tah-Crop Elite",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Bird Warrior 2/2"
+    },
+    {
+        "Artist": "Daarken",
+        "Description": "Exile target creature that blocked or was blocked by a Zombie this turn.",
+        "Flavour Text": "\"Occasionally, there are those who refuse to appreciate all that the God-Pharaoh provides for us.\"\u2014Temmet, vizier of Naktamun",
+        "Image URL": "http://magiccards.info/scans/akh/en/33.html",
+        "Mana Cost": "W",
+        "Name": "Time to Reflect",
+        "Rarity": "Uncommon",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Izzy",
+        "Description": "Trueheart Duelist can block an additional creature each combat.Embalm {2}{W} ({2}{W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Warrior with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/35.html",
+        "Mana Cost": "1W",
+        "Name": "Trueheart Duelist",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Human Warrior 2/2"
+    },
+    {
+        "Artist": "Deruchenko Alexander",
+        "Description": "FlashWhen Vizier of Deferment enters the battlefield, you may exile target creature if it attacked or blocked this turn. Return that card to the battlefield under its owner's control at the beginning of the next end step.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/37.html",
+        "Mana Cost": "2W",
+        "Name": "Vizier of Deferment",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Human Cleric 2/2"
+    },
+    {
+        "Artist": "Chris Rahn",
+        "Description": "Flying, vigilanceCycling {W} ({W}, Discard this card: Draw a card.)",
+        "Flavour Text": "\"When the Hour of Promise arrives, the God-Pharaoh will tear down the Hekma, for its protection will be needed no longer.\"\u2014The Accounting of Hours",
+        "Image URL": "http://magiccards.info/scans/akh/en/39.html",
+        "Mana Cost": "5W",
+        "Name": "Winged Shepherd",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Angel 3/3"
+    },
+    {
+        "Artist": "Svetlin Velinov",
+        "Description": "FlyingWhen Angler Drake enters the battlefield, you may return target creature to its owner's hand.",
+        "Flavour Text": "From the time they are hatchlings, river drakes are taught to pull the largest prey from the Luxa.",
+        "Image URL": "http://magiccards.info/scans/akh/en/41.html",
+        "Mana Cost": "4UU",
+        "Name": "Angler Drake",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Drake 4/4"
+    },
+    {
+        "Artist": "Jakub Kasper",
+        "Description": "FlyingEmbalm {6}{U} ({6}{U}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/43.html",
+        "Mana Cost": "3U",
+        "Name": "Aven Initiate",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Bird Warrior 3/2"
+    },
+    {
+        "Artist": "Kieran Yanner",
+        "Description": "Enchant creature you controlWhen Cartouche of Knowledge enters the battlefield, draw a card.Enchanted creature gets +1/+1 and has flying.",
+        "Flavour Text": "Cartouches chronicle the initiates' achievements in the trials.",
+        "Image URL": "http://magiccards.info/scans/akh/en/45.html",
+        "Mana Cost": "1U",
+        "Name": "Cartouche of Knowledge",
+        "Rarity": "Common",
+        "Type": "Enchantment \u2014 Aura Cartouche"
+    },
+    {
+        "Artist": "Lucas Graciano",
+        "Description": "Target player puts the top five cards of his or her library into his or her graveyard.Cycling {U} ({U}, Discard this card: Draw a card.)",
+        "Flavour Text": "\"How can there be doubt in the presence of such blessings?\"\u2014Ukhat, vizier of initiation",
+        "Image URL": "http://magiccards.info/scans/akh/en/47.html",
+        "Mana Cost": "1U",
+        "Name": "Compelling Argument",
+        "Rarity": "Common",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Christine Choi",
+        "Description": "FlyingWhenever you cycle or discard another card, scry 1.Cycling {U} ({U}, Discard this card: Draw a card.)",
+        "Flavour Text": "To consult a sphinx is a test in patience. Perhaps that's the point.",
+        "Image URL": "http://magiccards.info/scans/akh/en/49.html",
+        "Mana Cost": "2UU",
+        "Name": "Curator of Mysteries",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Sphinx 4/4"
+    },
+    {
+        "Artist": "John Severin Brassell",
+        "Description": "Whenever you cycle or discard a card, you may pay {1}. If you do, create a 2/2 blue Drake creature token with flying.",
+        "Flavour Text": "\"If you want to truly test your survival skills, walk the Obelisk Path when the drakes are feeding.\"\u2014Etha, initiate of Rhet crop",
+        "Image URL": "http://magiccards.info/scans/akh/en/51.html",
+        "Mana Cost": "2U",
+        "Name": "Drake Haven",
+        "Rarity": "Rare",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Jung Park",
+        "Description": "Return up to two target creatures to their owners' hands.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "\"It usually appears placid, but don't be fooled. The Luxa River is a snake, and it can swallow you whole.\"\u2014Neponem, vizier of Kefnet",
+        "Image URL": "http://magiccards.info/scans/akh/en/53.html",
+        "Mana Cost": "4UU",
+        "Name": "Floodwaters",
+        "Rarity": "Common",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Chris Rahn",
+        "Description": "FlyingWhenever Glyph Keeper becomes the target of a spell or ability for the first time each turn, counter that spell or ability.Embalm {5}{U}{U} ({5}{U}{U}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Sphinx with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/55.html",
+        "Mana Cost": "3UU",
+        "Name": "Glyph Keeper",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Sphinx 5/3"
+    },
+    {
+        "Artist": "Raoul Vitale",
+        "Description": "Draw two cards.Cycling {U} ({U}, Discard this card: Draw a card.)",
+        "Flavour Text": "\"The answers are here. This is the way through the trial.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/57.html",
+        "Mana Cost": "3U",
+        "Name": "Hieroglyphic Illumination",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Chase Stone",
+        "Description": "Flying, indestructibleKefnet the Mindful can't attack or block unless you have seven or more cards in hand.{3}{U}: Draw a card, then you may return a land you control to its owner's hand.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/59.html",
+        "Mana Cost": "2U",
+        "Name": "Kefnet the Mindful",
+        "Rarity": "Mythic Rare",
+        "Type": "Legendary Creature \u2014 God 5/5"
+    },
+    {
+        "Artist": "Chris Rallis",
+        "Description": "Enchant permanentYou control enchanted permanent.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "Initiates need worry only about the trials. Everything else is in the hands of the gods.",
+        "Image URL": "http://magiccards.info/scans/akh/en/61.html",
+        "Mana Cost": "5UU",
+        "Name": "Lay Claim",
+        "Rarity": "Uncommon",
+        "Type": "Enchantment \u2014 Aura"
+    },
+    {
+        "Artist": "Darek Zabrocki",
+        "Description": "When New Perspectives enters the battlefield, draw three cards.As long as you have seven or more cards in hand, you may pay {0} rather than pay cycling costs.",
+        "Flavour Text": "Understanding is a matter of perspective.",
+        "Image URL": "http://magiccards.info/scans/akh/en/63.html",
+        "Mana Cost": "5U",
+        "Name": "New Perspectives",
+        "Rarity": "Rare",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Sara Winters",
+        "Description": "Draw X cards, then discard a card.",
+        "Flavour Text": "\"I do things in my own time.\"\u2014Etha, initiate of Rhet crop",
+        "Image URL": "http://magiccards.info/scans/akh/en/65.html",
+        "Mana Cost": "XUU",
+        "Name": "Pull from Tomorrow",
+        "Rarity": "Rare",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Noah Bradley",
+        "Description": "Return up to two target cards with cycling from your graveyard to your hand.",
+        "Flavour Text": "The anointed work the mines without pause, their cartouches instilling them with tireless purpose.",
+        "Image URL": "http://magiccards.info/scans/akh/en/67.html",
+        "Mana Cost": "3U",
+        "Name": "Sacred Excavation",
+        "Rarity": "Uncommon",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Magali Villeneuve",
+        "Description": "{T}: Draw a card, then discard a card. Activate this ability only if you've cast a noncreature spell this turn.",
+        "Flavour Text": "The Trial of Knowledge challenges and broadens the minds of initiates.",
+        "Image URL": "http://magiccards.info/scans/akh/en/69.html",
+        "Mana Cost": "1U",
+        "Name": "Seeker of Insight",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Human Wizard 1/3"
+    },
+    {
+        "Artist": "Zezhou Chen",
+        "Description": "Slither Blade can't be blocked.",
+        "Flavour Text": "Some naga initiates move as silently as the suns' reflections on the water.",
+        "Image URL": "http://magiccards.info/scans/akh/en/71.html",
+        "Mana Cost": "U",
+        "Name": "Slither Blade",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Naga Rogue 1/2"
+    },
+    {
+        "Artist": "Viktor Titov",
+        "Description": "When Trial of Knowledge enters the battlefield, draw three cards, then discard a card.When a Cartouche enters the battlefield under your control, return Trial of Knowledge to its owner's hand.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/73.html",
+        "Mana Cost": "3U",
+        "Name": "Trial of Knowledge",
+        "Rarity": "Uncommon",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Josu Hernaiz",
+        "Description": "{T}: Untap another target permanent.Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)When you cycle Vizier of Tumbling Sands, untap target permanent.",
+        "Flavour Text": "\"Time is like the Luxa River\u2014though it flows in one direction, it can be diverted.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/75.html",
+        "Mana Cost": "2U",
+        "Name": "Vizier of Tumbling Sands",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Human Cleric 1/3"
+    },
+    {
+        "Artist": "Jason Kang",
+        "Description": "FlyingWhenever you cycle or discard a card, target creature gains flying until end of turn.",
+        "Flavour Text": "Only from the sky can one fully understand the horrors of the wastes and the wonder of the Hekma's protection.",
+        "Image URL": "http://magiccards.info/scans/akh/en/77.html",
+        "Mana Cost": "3U",
+        "Name": "Zenith Seeker",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Bird Wizard 2/2"
+    },
+    {
+        "Artist": "Seb McKinnon",
+        "Description": "LifelinkWhen Baleful Ammit enters the battlefield, put a -1/-1 counter on target creature you control.",
+        "Flavour Text": "\"Not all in our crop deserve the afterlife. We must leave the unworthy behind, Samut.\"\u2014Djeru, initiate of Tah crop",
+        "Image URL": "http://magiccards.info/scans/akh/en/79.html",
+        "Mana Cost": "2B",
+        "Name": "Baleful Ammit",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Crocodile Demon 4/3"
+    },
+    {
+        "Artist": "Yeong-Hao Han",
+        "Description": "Bone Picker costs {3} less to cast if a creature died this turn.Flying, deathtouch",
+        "Flavour Text": "They are the first to greet dissenters on their journey into exile.",
+        "Image URL": "http://magiccards.info/scans/akh/en/81.html",
+        "Mana Cost": "3B",
+        "Name": "Bone Picker",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Bird 3/2"
+    },
+    {
+        "Artist": "Kieran Yanner",
+        "Description": "Enchant creature you controlWhen Cartouche of Ambition enters the battlefield, you may put a -1/-1 counter on target creature.Enchanted creature gets +1/+1 and has lifelink.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/83.html",
+        "Mana Cost": "2B",
+        "Name": "Cartouche of Ambition",
+        "Rarity": "Common",
+        "Type": "Enchantment \u2014 Aura Cartouche"
+    },
+    {
+        "Artist": "David Palumbo",
+        "Description": "Menace (This creature can't be blocked except by two or more creatures.)",
+        "Flavour Text": "\"Look! That is why we must never waver. That is what awaits us if we fail.\"\u2014Djeru, initiate of Tah crop",
+        "Image URL": "http://magiccards.info/scans/akh/en/85.html",
+        "Mana Cost": "2B",
+        "Name": "Cursed Minotaur",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Zombie Minotaur 3/2"
+    },
+    {
+        "Artist": "Tony Foti",
+        "Description": "When Doomed Dissenter dies, create a 2/2 black Zombie creature token.",
+        "Flavour Text": "There is only one fate left to those banished from the God-Pharaoh's city.",
+        "Image URL": "http://magiccards.info/scans/akh/en/87.html",
+        "Mana Cost": "1B",
+        "Name": "Doomed Dissenter",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Human 1/1"
+    },
+    {
+        "Artist": "Grzegorz Rutkowski",
+        "Description": "None",
+        "Flavour Text": "The scouring sands of Shefet polish its carapace, and the ranks of the cursed fill its belly.",
+        "Image URL": "http://magiccards.info/scans/akh/en/89.html",
+        "Mana Cost": "1B",
+        "Name": "Dune Beetle",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Insect 1/4"
+    },
+    {
+        "Artist": "Christopher Burdett",
+        "Description": "When Festering Mummy dies, you may put a -1/-1 counter on target creature.",
+        "Flavour Text": "As its parched flesh withers away, its malignant hunger grows.",
+        "Image URL": "http://magiccards.info/scans/akh/en/91.html",
+        "Mana Cost": "B",
+        "Name": "Festering Mummy",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Zombie 1/1"
+    },
+    {
+        "Artist": "Tony Foti",
+        "Description": "When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.",
+        "Flavour Text": "In Amonkhet's ever-shifting sands, nothing stays buried for long.",
+        "Image URL": "http://magiccards.info/scans/akh/en/93.html",
+        "Mana Cost": "3B",
+        "Name": "Gravedigger",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Zombie 2/2"
+    },
+    {
+        "Artist": "Daarken",
+        "Description": "Whenever you cycle or discard another card, Horror of the Broken Lands gets +2/+1 until end of turn.Cycling {B} ({B}, Discard this card: Draw a card.)",
+        "Flavour Text": "It feeds on dry bones in the sand and desperate pleas in the wind.",
+        "Image URL": "http://magiccards.info/scans/akh/en/95.html",
+        "Mana Cost": "4B",
+        "Name": "Horror of the Broken Lands",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Horror 4/4"
+    },
+    {
+        "Artist": "Chris Rallis",
+        "Description": "+1: Create a 2/2 black Zombie creature token. Put the top two cards of your library into your graveyard.\u22123: Return target creature card from your graveyard to the battlefield. That creature is a black Zombie in addition to its other colors and types.\u22127: Destroy all non-Zombie creatures.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/97.html",
+        "Mana Cost": "3BB",
+        "Name": "Liliana, Death's Majesty",
+        "Rarity": "Mythic Rare",
+        "Type": "Planeswalker \u2014 Liliana (Loyalty: 5)"
+    },
+    {
+        "Artist": "Grzegorz Rutkowski",
+        "Description": "Other Zombies you control get +1/+1.{1}{B}, {T}: All Zombies gain menace until end of turn.",
+        "Flavour Text": "The Curse of Wandering leaves only hatred.",
+        "Image URL": "http://magiccards.info/scans/akh/en/99.html",
+        "Mana Cost": "2B",
+        "Name": "Lord of the Accursed",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Zombie 2/3"
+    },
+    {
+        "Artist": "Jason A. Engle",
+        "Description": "Whenever you put one or more -1/-1 counters on a creature, create that many 1/1 black Insect creature tokens.",
+        "Flavour Text": "\"They are small, but they always want more. Learn from them.\"\u2014Bontu, god of ambition",
+        "Image URL": "http://magiccards.info/scans/akh/en/101.html",
+        "Mana Cost": "2B",
+        "Name": "Nest of Scarabs",
+        "Rarity": "Uncommon",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Volkan Baga",
+        "Description": "Whenever you cycle or discard a card, Pitiless Vizier gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/103.html",
+        "Mana Cost": "3B",
+        "Name": "Pitiless Vizier",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Minotaur Cleric 4/2"
+    },
+    {
+        "Artist": "Sara Winters",
+        "Description": "Whenever you cycle or discard a card, you may pay {1}. If you do, put a -1/-1 counter on target creature.",
+        "Flavour Text": "\"You may feel a slight sting.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/105.html",
+        "Mana Cost": "B",
+        "Name": "Ruthless Sniper",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Human Archer 1/2"
+    },
+    {
+        "Artist": "Darek Zabrocki",
+        "Description": "Return to your hand all cards in your graveyard that you cycled or discarded this turn.",
+        "Flavour Text": "\"Death has seeped into every part of this plane. I can feel it on my skin and taste it like sand in my mouth.\"\u2014Nissa Revane",
+        "Image URL": "http://magiccards.info/scans/akh/en/107.html",
+        "Mana Cost": "1B",
+        "Name": "Shadow of the Grave",
+        "Rarity": "Rare",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Clint Cearley",
+        "Description": "Distribute two -1/-1 counters among one or two target creatures.",
+        "Flavour Text": "\"Wherever you are in the city, you can feel the presence of the God-Pharaoh. Take comfort in that.\"\u2014Ukhat, vizier of initiation",
+        "Image URL": "http://magiccards.info/scans/akh/en/109.html",
+        "Mana Cost": "2B",
+        "Name": "Splendid Agony",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Christopher Moeller",
+        "Description": "Until end of turn, target creature gets +2/+0 and gains \"When this creature dies, return it to the battlefield tapped under its owner's control.\"",
+        "Flavour Text": "\"All are not equal\u2014neither in life nor after death. Bontu's favorites will stand highest in eternity.\"\u2014Senifet, vizier of Bontu",
+        "Image URL": "http://magiccards.info/scans/akh/en/111.html",
+        "Mana Cost": "B",
+        "Name": "Supernatural Stamina",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Johann Bodin",
+        "Description": "When Trial of Ambition enters the battlefield, target opponent sacrifices a creature.When a Cartouche enters the battlefield under your control, return Trial of Ambition to its owner's hand.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/113.html",
+        "Mana Cost": "1B",
+        "Name": "Trial of Ambition",
+        "Rarity": "Uncommon",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Seb McKinnon",
+        "Description": "Return up to two target creature cards from your graveyard to your hand.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "Forever restless. Forever growing in number.",
+        "Image URL": "http://magiccards.info/scans/akh/en/115.html",
+        "Mana Cost": "2B",
+        "Name": "Wander in Death",
+        "Rarity": "Common",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Seb McKinnon",
+        "Description": "HasteYou may exert Ahn-Crop Crasher as it attacks. When you do, target creature can't block this turn. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "\"Hesitation breeds dissension. To be worthy of the next life, you must never look back.\"\u2014Anep, vizier of Hazoret",
+        "Image URL": "http://magiccards.info/scans/akh/en/117.html",
+        "Mana Cost": "2R",
+        "Name": "Ahn-Crop Crasher",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Minotaur Warrior 3/2"
+    },
+    {
+        "Artist": "Zezhou Chen",
+        "Description": "Blazing Volley deals 1 damage to each creature your opponents control.",
+        "Flavour Text": "The arrows fell like fiery rain, and for a moment, the sky itself seemed to burn.",
+        "Image URL": "http://magiccards.info/scans/akh/en/119.html",
+        "Mana Cost": "R",
+        "Name": "Blazing Volley",
+        "Rarity": "Common",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Lars Grant-West",
+        "Description": "When Bloodrage Brawler enters the battlefield, discard a card.",
+        "Flavour Text": "To Hazoret, those who fight for her are her beloved children.",
+        "Image URL": "http://magiccards.info/scans/akh/en/121.html",
+        "Mana Cost": "1R",
+        "Name": "Bloodrage Brawler",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Minotaur Warrior 4/3"
+    },
+    {
+        "Artist": "Magali Villeneuve",
+        "Description": "Destroy X target artifacts.",
+        "Flavour Text": "\"Dissent? Your gods can't even begin to comprehend the dissent that's about to happen here!\"\u2014Chandra Nalaar",
+        "Image URL": "http://magiccards.info/scans/akh/en/123.html",
+        "Mana Cost": "XR",
+        "Name": "By Force",
+        "Rarity": "Uncommon",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Chris Rallis",
+        "Description": "If Combat Celebrant hasn't been exerted this turn, you may exert it as it attacks. When you do, untap all other creatures you control and after this phase, there is an additional combat phase. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/125.html",
+        "Mana Cost": "2R",
+        "Name": "Combat Celebrant",
+        "Rarity": "Mythic Rare",
+        "Type": "Creature \u2014 Human Warrior 4/1"
+    },
+    {
+        "Artist": "Lius Lasahido",
+        "Description": "Deem Worthy deals 7 damage to target creature.Cycling {3}{R} ({3}{R}, Discard this card: Draw a card.)When you cycle Deem Worthy, you may have it deal 2 damage to target creature.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/127.html",
+        "Mana Cost": "4R",
+        "Name": "Deem Worthy",
+        "Rarity": "Uncommon",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Craig J Spearing",
+        "Description": "Electrify deals 4 damage to target creature.",
+        "Flavour Text": "\"Some hid from the storm. I embraced it and learned its name.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/129.html",
+        "Mana Cost": "3R",
+        "Name": "Electrify",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Tomasz Jedruszek",
+        "Description": "MenaceWhenever you cycle or discard a card, Flameblade Adept gets +1/+0 until end of turn.",
+        "Flavour Text": "\"Allow zealous flames to light your path and the glory you seek will be revealed.\"\u2014Hazoret, god of zeal",
+        "Image URL": "http://magiccards.info/scans/akh/en/131.html",
+        "Mana Cost": "R",
+        "Name": "Flameblade Adept",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Jackal Warrior 1/2"
+    },
+    {
+        "Artist": "Raymond Swanland",
+        "Description": "End the turn. (Exile all spells and abilities on the stack, including this card. The player whose turn it is discards down to his or her maximum hand size. Damage wears off, and \"this turn\" and \"until end of turn\" effects end.)At the beginning of your next end step, you lose the game.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/133.html",
+        "Mana Cost": "2R",
+        "Name": "Glorious End",
+        "Rarity": "Mythic Rare",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Shreya Shetty",
+        "Description": "Whenever an opponent activates an ability of an artifact, creature, or land on the battlefield, if it isn't a mana ability, Harsh Mentor deals 2 damage to that player.",
+        "Flavour Text": "\"Fight through it.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/135.html",
+        "Mana Cost": "1R",
+        "Name": "Harsh Mentor",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Human Cleric 2/2"
+    },
+    {
+        "Artist": "Raymond Swanland",
+        "Description": "At the beginning of combat on your turn, you may have target creature you control get +2/+0 and gain haste until end of turn. If you do, sacrifice it at the beginning of the next end step.",
+        "Flavour Text": "Hazoret's gift is bestowed only once.",
+        "Image URL": "http://magiccards.info/scans/akh/en/137.html",
+        "Mana Cost": "2R",
+        "Name": "Hazoret's Favor",
+        "Rarity": "Rare",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Winona Nelson",
+        "Description": "None",
+        "Flavour Text": "With carrion a rarity in the Broken Lands, the hyenas that stalk the deserts hunt in packs.",
+        "Image URL": "http://magiccards.info/scans/akh/en/139.html",
+        "Mana Cost": "2RR",
+        "Name": "Hyena Pack",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Hyena 3/4"
+    },
+    {
+        "Artist": "Svetlin Velinov",
+        "Description": "Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.",
+        "Flavour Text": "\"Ashes can't be embalmed.\"\u2014Neheb, initiate of Ahn crop",
+        "Image URL": "http://magiccards.info/scans/akh/en/141.html",
+        "Mana Cost": "R",
+        "Name": "Magma Spray",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Joseph Meehan",
+        "Description": "Reach (This creature can block creatures with flying.){1}{R}: Minotaur Sureshot gets +1/+0 until end of turn.",
+        "Flavour Text": "\"Those wings are no advantage. I will pin them to the ceiling of the Hekma.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/143.html",
+        "Mana Cost": "2R",
+        "Name": "Minotaur Sureshot",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Minotaur Archer 2/3"
+    },
+    {
+        "Artist": "Tomasz Jedruszek",
+        "Description": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+        "Flavour Text": "\"In the Hour of Glory, the gods and the untested will prove their worth before the God-Pharaoh.\"\u2014The Accounting of Hours",
+        "Image URL": "http://magiccards.info/scans/akh/en/145.html",
+        "Mana Cost": "1R",
+        "Name": "Nimble-Blade Khenra",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Jackal Warrior 1/3"
+    },
+    {
+        "Artist": "Johann Bodin",
+        "Description": "Attacking creatures get +2/+0 until end of turn.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "\"Combat is a form of worship, the clash of steel a solemn prayer.\"\u2014Pytamun, initiate of Nef crop",
+        "Image URL": "http://magiccards.info/scans/akh/en/147.html",
+        "Mana Cost": "3R",
+        "Name": "Pursue Glory",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Raymond Swanland",
+        "Description": "Sweltering Suns deals 3 damage to each creature.Cycling {3} ({3}, Discard this card: Draw a card.)",
+        "Flavour Text": "The Hekma may repel storms and monsters, but nothing holds back the heat of the suns.",
+        "Image URL": "http://magiccards.info/scans/akh/en/149.html",
+        "Mana Cost": "1RR",
+        "Name": "Sweltering Suns",
+        "Rarity": "Rare",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Allen Williams",
+        "Description": "As an additional cost to cast Tormenting Voice, discard a card.Draw two cards.",
+        "Flavour Text": "\"You are undeserving of the afterlife. You will never feel the God-Pharaoh's embrace.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/151.html",
+        "Mana Cost": "1R",
+        "Name": "Tormenting Voice",
+        "Rarity": "Common",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Matt Stewart",
+        "Description": "You may exert Trueheart Twins as it attacks. (It won't untap during your next untap step.)Whenever you exert a creature, creatures you control get +1/+0 until end of turn.",
+        "Flavour Text": "Shoulder to shoulder until blade must turn against blade.",
+        "Image URL": "http://magiccards.info/scans/akh/en/153.html",
+        "Mana Cost": "4R",
+        "Name": "Trueheart Twins",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Jackal Warrior 4/4"
+    },
+    {
+        "Artist": "Yohann Schepacz",
+        "Description": "When Warfire Javelineer enters the battlefield, it deals X damage to target creature an opponent controls, where X is the number of instant and sorcery cards in your graveyard.",
+        "Flavour Text": "Minotaurs favor magic that manifests as weapons wrapped in flame.",
+        "Image URL": "http://magiccards.info/scans/akh/en/155.html",
+        "Mana Cost": "3R",
+        "Name": "Warfire Javelineer",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Minotaur Warrior 2/3"
+    },
+    {
+        "Artist": "Slawomir Maniak",
+        "Description": "You may exert Bitterblade Warrior as it attacks. When you do, it gets +1/+0 and gains deathtouch until end of turn. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "\"The vizier of poisons teaches an unconventional kind of strength.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/157.html",
+        "Mana Cost": "1G",
+        "Name": "Bitterblade Warrior",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Jackal Warrior 2/2"
+    },
+    {
+        "Artist": "Winona Nelson",
+        "Description": "You may exert Champion of Rhonas as it attacks. When you do, you may put a creature card from your hand onto the battlefield. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "The only way to finish the Trial of Strength is with a basilisk scale in hand.",
+        "Image URL": "http://magiccards.info/scans/akh/en/159.html",
+        "Mana Cost": "3G",
+        "Name": "Champion of Rhonas",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Jackal Warrior 3/3"
+    },
+    {
+        "Artist": "Jason Kang",
+        "Description": "None",
+        "Flavour Text": "\"If it is bigger, you must be faster. If it is stronger, you must be sharper. Anything less, and you will never seize a place in our God-Pharaoh's perfect afterlife.\"\u2014Rhonas, god of strength",
+        "Image URL": "http://magiccards.info/scans/akh/en/161.html",
+        "Mana Cost": "4G",
+        "Name": "Colossapede",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Insect 5/5"
+    },
+    {
+        "Artist": "Deruchenko Alexander",
+        "Description": "When Defiant Greatmaw enters the battlefield, put two -1/-1 counters on target creature you control.Whenever you put one or more -1/-1 counters on Defiant Greatmaw, remove a -1/-1 counter from another target creature you control.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/163.html",
+        "Mana Cost": "2G",
+        "Name": "Defiant Greatmaw",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Hippo 4/5"
+    },
+    {
+        "Artist": "Sara Winters",
+        "Description": "When Exemplar of Strength enters the battlefield, put three -1/-1 counters on target creature you control.Whenever Exemplar of Strength attacks, remove a -1/-1 counter from it. If you do, you gain 1 life.",
+        "Flavour Text": "\"No one is born worthy.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/165.html",
+        "Mana Cost": "1G",
+        "Name": "Exemplar of Strength",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Human Warrior 4/4"
+    },
+    {
+        "Artist": "Ryan Pancoast",
+        "Description": "Enchant landWhen Gift of Paradise enters the battlefield, you gain 3 life.Enchanted land has \"{T}: Add two mana of any one color to your mana pool.\"",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/167.html",
+        "Mana Cost": "2G",
+        "Name": "Gift of Paradise",
+        "Rarity": "Common",
+        "Type": "Enchantment \u2014 Aura"
+    },
+    {
+        "Artist": "Lindsey Look",
+        "Description": "Target creature you control gains hexproof until end of turn. Remove all -1/-1 counters from it. (A creature with hexproof can't be the target of spells or abilities your opponents control.)",
+        "Flavour Text": "\"If you fear poisons, it is because you are ignorant of them.\"\u2014Hapatra, vizier of poisons",
+        "Image URL": "http://magiccards.info/scans/akh/en/169.html",
+        "Mana Cost": "G",
+        "Name": "Hapatra's Mark",
+        "Rarity": "Uncommon",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Mark Zug",
+        "Description": "Prevent all combat damage that would be dealt this turn.Cycling {3} ({3}, Discard this card: Draw a card.)",
+        "Flavour Text": "Few can overcome an assault of such aggressive serenity.",
+        "Image URL": "http://magiccards.info/scans/akh/en/171.html",
+        "Mana Cost": "1G",
+        "Name": "Haze of Pollen",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Daarken",
+        "Description": "You may exert Hooded Brawler as it attacks. When you do, it gets +2/+2 until end of turn. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "Nagas wielding twin daggers excel at the fighting technique known as the Bite of Rhonas.",
+        "Image URL": "http://magiccards.info/scans/akh/en/173.html",
+        "Mana Cost": "2G",
+        "Name": "Hooded Brawler",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Naga Warrior 3/2"
+    },
+    {
+        "Artist": "Lius Lasahido",
+        "Description": "When Manglehorn enters the battlefield, you may destroy target artifact.Artifacts your opponents control enter the battlefield tapped.",
+        "Flavour Text": "\"Rely too much on your weapons and watch your dreams shatter in your hands.\"\u2014Rhonas, god of strength",
+        "Image URL": "http://magiccards.info/scans/akh/en/175.html",
+        "Mana Cost": "2G",
+        "Name": "Manglehorn",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Beast 2/2"
+    },
+    {
+        "Artist": "Sara Winters",
+        "Description": "{2}{G}, {T}, Sacrifice Oashra Cultivator: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
+        "Flavour Text": "\"Like fruits in the field, we will be harvested when the season is right.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/177.html",
+        "Mana Cost": "G",
+        "Name": "Oashra Cultivator",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Human Druid 0/3"
+    },
+    {
+        "Artist": "Matt Stewart",
+        "Description": "Flash",
+        "Flavour Text": "Rhonas's monument is home to a wider variety of creatures than anywhere else in the city of Naktamun\u2014a feature most initiates fail to appreciate.",
+        "Image URL": "http://magiccards.info/scans/akh/en/179.html",
+        "Mana Cost": "2G",
+        "Name": "Pouncing Cheetah",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Cat 3/2"
+    },
+    {
+        "Artist": "David Gaillet",
+        "Description": "When Quarry Hauler enters the battlefield, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it.",
+        "Flavour Text": "They labor beside the anointed, constructing the vast monuments of Naktamun.",
+        "Image URL": "http://magiccards.info/scans/akh/en/181.html",
+        "Mana Cost": "3G",
+        "Name": "Quarry Hauler",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Camel 4/3"
+    },
+    {
+        "Artist": "Slawomir Maniak",
+        "Description": "Creatures with flying can't attack you or planeswalkers you control.At the beginning of your end step, create a 5/5 green Wurm creature token.",
+        "Flavour Text": "Cantankerous and territorial, sandwurms claim even the skies above their dunes.",
+        "Image URL": "http://magiccards.info/scans/akh/en/183.html",
+        "Mana Cost": "6GG",
+        "Name": "Sandwurm Convergence",
+        "Rarity": "Rare",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Christine Choi",
+        "Description": "Target creature gets +2/+2 until end of turn. You may remove a -1/-1 counter from it.",
+        "Flavour Text": "To prepare for the Trial of Strength, nagas shed their old skin\u2014and with it their scars, their doubts, and their fears.",
+        "Image URL": "http://magiccards.info/scans/akh/en/185.html",
+        "Mana Cost": "G",
+        "Name": "Shed Weakness",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Zoltan Boros",
+        "Description": "Enchant creatureEnchanted creature has \"Whenever this creature deals combat damage to a player, you may draw a card.\"",
+        "Flavour Text": "Instinct yields the truest insight.",
+        "Image URL": "http://magiccards.info/scans/akh/en/187.html",
+        "Mana Cost": "G",
+        "Name": "Sixth Sense",
+        "Rarity": "Uncommon",
+        "Type": "Enchantment \u2014 Aura"
+    },
+    {
+        "Artist": "Scott Murphy",
+        "Description": "Put three -1/-1 counters on target creature with flying.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "Initiates must train to resist the natural toxins they use as weapons.",
+        "Image URL": "http://magiccards.info/scans/akh/en/189.html",
+        "Mana Cost": "G",
+        "Name": "Stinging Shot",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Kieran Yanner",
+        "Description": "When Trial of Strength enters the battlefield, create a 4/2 green Beast creature token.When a Cartouche enters the battlefield under your control, return Trial of Strength to its owner's hand.",
+        "Flavour Text": "\"Instincts to guide. Strength to overcome.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/191.html",
+        "Mana Cost": "2G",
+        "Name": "Trial of Strength",
+        "Rarity": "Uncommon",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Anastasia Ovchinnikova",
+        "Description": "You may exert Watchful Naga as it attacks. When you do, draw a card. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "The forked tongue of the naga is sensitive to drifting scent trails from the past, present, and sometimes even the future.",
+        "Image URL": "http://magiccards.info/scans/akh/en/193.html",
+        "Mana Cost": "2G",
+        "Name": "Watchful Naga",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Naga Wizard 2/2"
+    },
+    {
+        "Artist": "Sidharth Chaturvedi",
+        "Description": "Flying, vigilanceCreature tokens you control have flying and vigilance.Embalm {4}{W}{U} ({4}{W}{U}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/195.html",
+        "Mana Cost": "2WU",
+        "Name": "Aven Wind Guide",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Bird Warrior 2/3"
+    },
+    {
+        "Artist": "Adrian Majkrzak",
+        "Description": "When Decimator Beetle enters the battlefield, put a -1/-1 counter on target creature you control.Whenever Decimator Beetle attacks, remove a -1/-1 counter from target creature you control and put a -1/-1 counter on up to one target creature defending player controls.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/197.html",
+        "Mana Cost": "3BG",
+        "Name": "Decimator Beetle",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Insect 4/5"
+    },
+    {
+        "Artist": "Tyler Jacobson",
+        "Description": "Whenever Hapatra, Vizier of Poisons deals combat damage to a player, you may put a -1/-1 counter on target creature.Whenever you put one or more -1/-1 counters on a creature, create a 1/1 green Snake creature token with deathtouch.",
+        "Flavour Text": "Her subtle smile is suffused with venom.",
+        "Image URL": "http://magiccards.info/scans/akh/en/199.html",
+        "Mana Cost": "BG",
+        "Name": "Hapatra, Vizier of Poisons",
+        "Rarity": "Rare",
+        "Type": "Legendary Creature \u2014 Human Cleric 2/2"
+    },
+    {
+        "Artist": "Chris Rallis",
+        "Description": "TrampleOther creatures you control have trample.",
+        "Flavour Text": "\"We do not swerve.\"\u2014Tah-crop charioteer motto",
+        "Image URL": "http://magiccards.info/scans/akh/en/201.html",
+        "Mana Cost": "1RG",
+        "Name": "Khenra Charioteer",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Jackal Warrior 3/3"
+    },
+    {
+        "Artist": "Chris Rahn",
+        "Description": "First strikeOther Minotaurs you control have first strike.As long as you have one or fewer cards in hand, Minotaurs you control get +2/+0.Whenever Neheb, the Worthy deals combat damage to a player, each player discards a card.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/203.html",
+        "Mana Cost": "1BR",
+        "Name": "Neheb, the Worthy",
+        "Rarity": "Rare",
+        "Type": "Legendary Creature \u2014 Minotaur Warrior 2/2"
+    },
+    {
+        "Artist": "Aleksi Briclot",
+        "Description": "FlashDouble strike, vigilance, hasteOther creatures you control have haste.{W}, {T}: Untap another target creature.",
+        "Flavour Text": "\"I'll fight no more just for the honor of dying. The afterlife will have to wait.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/205.html",
+        "Mana Cost": "3RG",
+        "Name": "Samut, Voice of Dissent",
+        "Rarity": "Mythic Rare",
+        "Type": "Legendary Creature \u2014 Human Warrior 3/4"
+    },
+    {
+        "Artist": "Anna Steinbauer",
+        "Description": "At the beginning of combat on your turn, target creature token you control gets +1/+1 until end of turn and can't be blocked this turn.Embalm {3}{W}{U} ({3}{W}{U}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/207.html",
+        "Mana Cost": "WU",
+        "Name": "Temmet, Vizier of Naktamun",
+        "Rarity": "Rare",
+        "Type": "Legendary Creature \u2014 Human Cleric 2/2"
+    },
+    {
+        "Artist": "Winona Nelson",
+        "Description": "{T}: Add {C}{C} to your mana pool.",
+        "Flavour Text": "\"Your waters sustain the living and carry the dead. Mighty Luxa, let your power flow through me!\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/209.html",
+        "Mana Cost": "1UG",
+        "Name": "Weaver of Currents",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Naga Druid 2/2"
+    },
+    {
+        "Artist": "Ryan Alexander Lee",
+        "Description": "Put target spell or nonland permanent into its owner's library second from the top.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/211a.html",
+        "Mana Cost": "3U",
+        "Name": "Commit (Commit/Memory)",
+        "Rarity": "Rare",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Lucas Graciano",
+        "Description": "Damage can't be prevented this turn. If a source you control would deal damage this turn, it deals double that damage instead.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/213a.html",
+        "Mana Cost": "2R",
+        "Name": "Insult (Insult/Injury)",
+        "Rarity": "Rare",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Magali Villeneuve",
+        "Description": "Create two 1/1 white Warrior creature tokens with vigilance.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/215a.html",
+        "Mana Cost": "2W",
+        "Name": "Start (Start/Finish)",
+        "Rarity": "Uncommon",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Magali Villeneuve",
+        "Description": "Target creature gets +1/+0 and gains indestructible until end of turn.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/217a.html",
+        "Mana Cost": "1B",
+        "Name": "Destined (Destined/Lead)",
+        "Rarity": "Uncommon",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Josu Hernaiz",
+        "Description": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/219a.html",
+        "Mana Cost": "2G",
+        "Name": "Spring (Spring/Mind)",
+        "Rarity": "Uncommon",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Jason A. Engle",
+        "Description": "Return target spell to its owner's hand.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/221a.html",
+        "Mana Cost": "1U",
+        "Name": "Failure (Failure/Comply)",
+        "Rarity": "Rare",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Raymond Swanland",
+        "Description": "Cut deals 4 damage to target creature.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/223a.html",
+        "Mana Cost": "1R",
+        "Name": "Cut (Cut/Ribbons)",
+        "Rarity": "Rare",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Jonas De Ro",
+        "Description": "Black creature spells you cast cost {1} less to cast.Whenever you cast a creature spell, each opponent loses 1 life and you gain 1 life.",
+        "Flavour Text": "\"The worthy shall strive for greatness. Supremacy in life leads to supremacy in the afterlife.\"\u2014Monument inscription",
+        "Image URL": "http://magiccards.info/scans/akh/en/225.html",
+        "Mana Cost": "3",
+        "Name": "Bontu's Monument",
+        "Rarity": "Uncommon",
+        "Type": "Legendary Artifact"
+    },
+    {
+        "Artist": "Adrian Majkrzak",
+        "Description": "Activated abilities of creature cards in your graveyard cost {1} less to activate.Tap an untapped Zombie you control: Target player puts the top card of his or her library into his or her graveyard.",
+        "Flavour Text": "\"They might be dead, but these mummies are masters of their trade.\"\u2014Jace Beleren",
+        "Image URL": "http://magiccards.info/scans/akh/en/227.html",
+        "Mana Cost": "2",
+        "Name": "Embalmer's Tools",
+        "Rarity": "Uncommon",
+        "Type": "Artifact"
+    },
+    {
+        "Artist": "Richard Wright",
+        "Description": "Red creature spells you cast cost {1} less to cast.Whenever you cast a creature spell, you may discard a card. If you do, draw a card.",
+        "Flavour Text": "\"The worthy shall rush to the God-Pharaoh's side with relentless zeal, rising to overcome every obstacle.\"\u2014Monument inscription",
+        "Image URL": "http://magiccards.info/scans/akh/en/229.html",
+        "Mana Cost": "3",
+        "Name": "Hazoret's Monument",
+        "Rarity": "Uncommon",
+        "Type": "Legendary Artifact"
+    },
+    {
+        "Artist": "Titus Lunter",
+        "Description": "Blue creature spells you cast cost {1} less to cast.Whenever you cast a creature spell, target creature an opponent controls doesn't untap during its controller's next untap step.",
+        "Flavour Text": "\"The worthy shall cultivate a nimble mind to perceive the glorious wonders that await them.\"\u2014Monument inscription",
+        "Image URL": "http://magiccards.info/scans/akh/en/231.html",
+        "Mana Cost": "3",
+        "Name": "Kefnet's Monument",
+        "Rarity": "Uncommon",
+        "Type": "Legendary Artifact"
+    },
+    {
+        "Artist": "Christine Choi",
+        "Description": "White creature spells you cast cost {1} less to cast.Whenever you cast a creature spell, create a 1/1 white Warrior creature token with vigilance.",
+        "Flavour Text": "\"The worthy shall respect the worthy. In the afterlife, all will stand united.\"\u2014Monument inscription",
+        "Image URL": "http://magiccards.info/scans/akh/en/233.html",
+        "Mana Cost": "3",
+        "Name": "Oketra's Monument",
+        "Rarity": "Uncommon",
+        "Type": "Legendary Artifact"
+    },
+    {
+        "Artist": "Florian de Gesincourt",
+        "Description": "{2}, {T}: Add one mana of any color to your mana pool. Put a brick counter on Pyramid of the Pantheon.{T}: Add three mana of any one color to your mana pool. Activate this ability only if there are three or more brick counters on Pyramid of the Pantheon.",
+        "Flavour Text": "Five gods, one purpose.",
+        "Image URL": "http://magiccards.info/scans/akh/en/235.html",
+        "Mana Cost": "1",
+        "Name": "Pyramid of the Pantheon",
+        "Rarity": "Rare",
+        "Type": "Artifact"
+    },
+    {
+        "Artist": "Titus Lunter",
+        "Description": "At the beginning of your end step, each opponent loses life equal to the number of tapped creatures you control.",
+        "Flavour Text": "\"When the Second Sun rests between the horns on the horizon, so begins the Hour of Revelation. Then the Hour of Glory, the Hour of Promise, and finally the Hour of Eternity.\"\u2014The Accounting of Hours",
+        "Image URL": "http://magiccards.info/scans/akh/en/237.html",
+        "Mana Cost": "2",
+        "Name": "Throne of the God-Pharaoh",
+        "Rarity": "Rare",
+        "Type": "Legendary Artifact"
+    },
+    {
+        "Artist": "Titus Lunter",
+        "Description": "({T}: Add {B} or {R} to your mana pool.)Canyon Slough enters the battlefield tapped.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/239.html",
+        "Mana Cost": "None",
+        "Name": "Canyon Slough",
+        "Rarity": "Rare",
+        "Type": "Land \u2014 Swamp Mountain"
+    },
+    {
+        "Artist": "Noah Bradley",
+        "Description": "{T}: Add {C} to your mana pool.{3}, {T}, Sacrifice Cradle of the Accursed: Create a 2/2 black Zombie creature token. Activate this ability only any time you could cast a sorcery.",
+        "Flavour Text": "Many such monuments dot the wasteland known as Ifnir.",
+        "Image URL": "http://magiccards.info/scans/akh/en/241.html",
+        "Mana Cost": "None",
+        "Name": "Cradle of the Accursed",
+        "Rarity": "Common",
+        "Type": "Land \u2014 Desert"
+    },
+    {
+        "Artist": "Jonas De Ro",
+        "Description": "({T}: Add {U} or {B} to your mana pool.)Fetid Pools enters the battlefield tapped.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/243.html",
+        "Mana Cost": "None",
+        "Name": "Fetid Pools",
+        "Rarity": "Rare",
+        "Type": "Land \u2014 Island Swamp"
+    },
+    {
+        "Artist": "Jonas De Ro",
+        "Description": "({T}: Add {W} or {U} to your mana pool.)Irrigated Farmland enters the battlefield tapped.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/245.html",
+        "Mana Cost": "None",
+        "Name": "Irrigated Farmland",
+        "Rarity": "Rare",
+        "Type": "Land \u2014 Plains Island"
+    },
+    {
+        "Artist": "Christine Choi",
+        "Description": "({T}: Add {G} or {W} to your mana pool.)Scattered Groves enters the battlefield tapped.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/247.html",
+        "Mana Cost": "None",
+        "Name": "Scattered Groves",
+        "Rarity": "Rare",
+        "Type": "Land \u2014 Forest Plains"
+    },
+    {
+        "Artist": "Min Yum",
+        "Description": "When Sunscorched Desert enters the battlefield, it deals 1 damage to target player.{T}: Add {C} to your mana pool.",
+        "Flavour Text": "The only relief in sight is a mirage.",
+        "Image URL": "http://magiccards.info/scans/akh/en/249.html",
+        "Mana Cost": "None",
+        "Name": "Sunscorched Desert",
+        "Rarity": "Common",
+        "Type": "Land \u2014 Desert"
+    },
+    {
+        "Artist": "Richard Wright",
+        "Description": "({T}: Add {U} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/251.html",
+        "Mana Cost": "None",
+        "Name": "Island",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Island"
+    },
+    {
+        "Artist": "Florian de Gesincourt",
+        "Description": "({T}: Add {R} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/253.html",
+        "Mana Cost": "None",
+        "Name": "Mountain",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Mountain"
+    },
+    {
+        "Artist": "Volkan Baga",
+        "Description": "({T}: Add {W} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/255.html",
+        "Mana Cost": "None",
+        "Name": "Plains",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Plains"
+    },
+    {
+        "Artist": "Titus Lunter",
+        "Description": "({T}: Add {W} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/257.html",
+        "Mana Cost": "None",
+        "Name": "Plains",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Plains"
+    },
+    {
+        "Artist": "Titus Lunter",
+        "Description": "({T}: Add {U} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/259.html",
+        "Mana Cost": "None",
+        "Name": "Island",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Island"
+    },
+    {
+        "Artist": "Steven Belledin",
+        "Description": "({T}: Add {B} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/261.html",
+        "Mana Cost": "None",
+        "Name": "Swamp",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Swamp"
+    },
+    {
+        "Artist": "Titus Lunter",
+        "Description": "({T}: Add {B} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/263.html",
+        "Mana Cost": "None",
+        "Name": "Swamp",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Swamp"
+    },
+    {
+        "Artist": "Titus Lunter",
+        "Description": "({T}: Add {R} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/265.html",
+        "Mana Cost": "None",
+        "Name": "Mountain",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Mountain"
+    },
+    {
+        "Artist": "Titus Lunter",
+        "Description": "({T}: Add {G} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/267.html",
+        "Mana Cost": "None",
+        "Name": "Forest",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Forest"
+    },
+    {
+        "Artist": "Matt Stewart",
+        "Description": "({T}: Add {G} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/269.html",
+        "Mana Cost": "None",
+        "Name": "Forest",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Forest"
+    },
+    {
+        "Artist": "Aaron Miller",
+        "Description": "Flying{1}{W}: Untap target creature. Activate this ability only if you control a Gideon planeswalker.",
+        "Flavour Text": "\"The fiercest loyalties are earned in battle.\"\u2014Gideon Jura",
+        "Image URL": "http://magiccards.info/scans/akh/en/271.html",
+        "Mana Cost": "2W",
+        "Name": "Companion of the Trials",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Bird Soldier 2/2"
+    },
+    {
+        "Artist": "John Stanko",
+        "Description": "Whenever Graceful Cat attacks, it gets +1/+1 until end of turn.",
+        "Flavour Text": "Though they are held in high regard as symbols of the god Oketra, cats often lack her sense of solidarity.",
+        "Image URL": "http://magiccards.info/scans/akh/en/273.html",
+        "Mana Cost": "2W",
+        "Name": "Graceful Cat",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Cat 2/2"
+    },
+    {
+        "Artist": "Clint Cearley",
+        "Description": "+2: Put a -1/-1 counter on up to one target creature.\u22123: Destroy target creature with a -1/-1 counter on it.\u221210: Return all creature cards from your graveyard to the battlefield.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/275.html",
+        "Mana Cost": "5BB",
+        "Name": "Liliana, Death Wielder",
+        "Rarity": "Mythic Rare",
+        "Type": "Planeswalker \u2014 Liliana (Loyalty: 5)"
+    },
+    {
+        "Artist": "Winona Nelson",
+        "Description": "Put a -1/-1 counter on each creature you don't control. You may search your library and/or graveyard for a card named Liliana, Death Wielder, reveal it, and put it into your hand. If you search your library this way, shuffle it.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/277.html",
+        "Mana Cost": "4BB",
+        "Name": "Liliana's Influence",
+        "Rarity": "Rare",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Mark Poole",
+        "Description": "Foul Orchard enters the battlefield tapped.{T}: Add {B} or {G} to your mana pool.",
+        "Flavour Text": "On Amonkhet, death is an ever-present part of life.",
+        "Image URL": "http://magiccards.info/scans/akh/en/279.html",
+        "Mana Cost": "None",
+        "Name": "Foul Orchard",
+        "Rarity": "Common",
+        "Type": "Land"
+    },
+    {
+        "Artist": "Vincent Proce",
+        "Description": "Forsaken Sanctuary enters the battlefield tapped.{T}: Add {W} or {B} to your mana pool.",
+        "Flavour Text": "\"Prayers will curdle on the tongue and be heard by rotting ears.\"\u2014Minaldra, the Vizag Atum",
+        "Image URL": "http://magiccards.info/scans/akh/en/281.html",
+        "Mana Cost": "None",
+        "Name": "Forsaken Sanctuary",
+        "Rarity": "Common",
+        "Type": "Land"
+    },
+    {
+        "Artist": "Cliff Childs",
+        "Description": "Meandering River enters the battlefield tapped.{T}: Add {W} or {U} to your mana pool.",
+        "Flavour Text": "The river split into many channels as it flowed to the Halimar Sea. Few travelers could follow the same one twice.",
+        "Image URL": "http://magiccards.info/scans/akh/en/283.html",
+        "Mana Cost": "None",
+        "Name": "Meandering River",
+        "Rarity": "Common",
+        "Type": "Land"
+    },
+    {
+        "Artist": "Cliff Childs",
+        "Description": "Timber Gorge enters the battlefield tapped.{T}: Add {R} or {G} to your mana pool.",
+        "Flavour Text": "Tazeem's embrace is harsh, but for those that call it home, nothing else will do.",
+        "Image URL": "http://magiccards.info/scans/akh/en/285.html",
+        "Mana Cost": "None",
+        "Name": "Timber Gorge",
+        "Rarity": "Common",
+        "Type": "Land"
+    },
+    {
+        "Artist": "Efflam Mercier",
+        "Description": "Woodland Stream enters the battlefield tapped.{T}: Add {G} or {U} to your mana pool.",
+        "Flavour Text": "Waterways carve their routes through the land to reflect the paths the aether streams cut through the clouds.",
+        "Image URL": "http://magiccards.info/scans/akh/en/287.html",
+        "Mana Cost": "None",
+        "Name": "Woodland Stream",
+        "Rarity": "Common",
+        "Type": "Land"
+    },
+    {
+        "Artist": "Victor Adame Minguez",
+        "Description": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.",
+        "Flavour Text": "\"The gods here may walk among the people, but they are not with them.\"\u2014Gideon Jura",
+        "Image URL": "http://magiccards.info/scans/akh/en/2.html",
+        "Mana Cost": "3W",
+        "Name": "Anointed Procession",
+        "Rarity": "Rare",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Noah Bradley",
+        "Description": "If Approach of the Second Sun was cast from your hand and you've cast another spell named Approach of the Second Sun this game, you win the game. Otherwise, put Approach of the Second Sun into its owner's library seventh from the top and you gain 7 life.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/4.html",
+        "Mana Cost": "6W",
+        "Name": "Approach of the Second Sun",
+        "Rarity": "Rare",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Shreya Shetty",
+        "Description": "Whenever another Zombie enters the battlefield under your control, you may tap target artifact or creature.",
+        "Flavour Text": "What the gods decree, the mummies enforce.",
+        "Image URL": "http://magiccards.info/scans/akh/en/6.html",
+        "Mana Cost": "1W",
+        "Name": "Binding Mummy",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Zombie 2/2"
+    },
+    {
+        "Artist": "Magali Villeneuve",
+        "Description": "FlashWhen Cast Out enters the battlefield, exile target nonland permanent an opponent controls until Cast Out leaves the battlefield.Cycling {W} ({W}, Discard this card: Draw a card.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/8.html",
+        "Mana Cost": "3W",
+        "Name": "Cast Out",
+        "Rarity": "Uncommon",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Zoltan Boros",
+        "Description": "You may exert Devoted Crop-Mate as it attacks. When you do, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/10.html",
+        "Mana Cost": "2W",
+        "Name": "Devoted Crop-Mate",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Human Warrior 3/2"
+    },
+    {
+        "Artist": "Anthony Palumbo",
+        "Description": "{2}, {T}: Tap target creature.",
+        "Flavour Text": "Rest sometimes requires the right prompting.",
+        "Image URL": "http://magiccards.info/scans/akh/en/12.html",
+        "Mana Cost": "W",
+        "Name": "Fan Bearer",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Zombie 1/2"
+    },
+    {
+        "Artist": "Izzy",
+        "Description": "+1: Until your next turn, prevent all damage target permanent would deal.0: Until end of turn, Gideon of the Trials becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.0: You get an emblem with \"As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game.\"",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/14.html",
+        "Mana Cost": "1WW",
+        "Name": "Gideon of the Trials",
+        "Rarity": "Mythic Rare",
+        "Type": "Planeswalker \u2014 Gideon (Loyalty: 3)"
+    },
+    {
+        "Artist": "David Palumbo",
+        "Description": "You may exert Glory-Bound Initiate as it attacks. When you do, it gets +1/+3 and gains lifelink until end of turn. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "\"Fly as an arrow through the trials, and never waver in your course.\"\u2014Oketra, god of solidarity",
+        "Image URL": "http://magiccards.info/scans/akh/en/16.html",
+        "Mana Cost": "1W",
+        "Name": "Glory-Bound Initiate",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Human Warrior 3/1"
+    },
+    {
+        "Artist": "Kev Walker",
+        "Description": "Impeccable Timing deals 3 damage to target attacking or blocking creature.",
+        "Flavour Text": "To a trained warrior, there is scarcely a more potent weapon than patience.",
+        "Image URL": "http://magiccards.info/scans/akh/en/18.html",
+        "Mana Cost": "1W",
+        "Name": "Impeccable Timing",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Sidharth Chaturvedi",
+        "Description": "Target creature gets +2/+2 and gains flying until end of turn.",
+        "Flavour Text": "\"I feel the presence of the God-Pharaoh in the Second Sun, and I rise upon its rays.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/20.html",
+        "Mana Cost": "1W",
+        "Name": "Mighty Leap",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Lake Hurwitz",
+        "Description": "FlyingCycling {2} ({2}, Discard this card: Draw a card.)Embalm {3}{W}{W} ({3}{W}{W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Soldier with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/22.html",
+        "Mana Cost": "3WW",
+        "Name": "Oketra's Attendant",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Bird Soldier 3/3"
+    },
+    {
+        "Artist": "Filip Burburan",
+        "Description": "Other Cats you control get +1/+1 and have lifelink.When Regal Caracal enters the battlefield, create two 1/1 white Cat creature tokens with lifelink.",
+        "Flavour Text": "Oketra's closest viziers are known as her chosen, though others may have a better claim to that moniker.",
+        "Image URL": "http://magiccards.info/scans/akh/en/24.html",
+        "Mana Cost": "3WW",
+        "Name": "Regal Caracal",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Cat 3/3"
+    },
+    {
+        "Artist": "Dan Scott",
+        "Description": "You may exert Rhet-Crop Spearmaster as it attacks. When you do, it gets +1/+0 and gains first strike until end of turn. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "\"In the afterlife, I'll have no need of sleep. And until then, I have no time for it!\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/26.html",
+        "Mana Cost": "2W",
+        "Name": "Rhet-Crop Spearmaster",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Human Warrior 3/1"
+    },
+    {
+        "Artist": "Winona Nelson",
+        "Description": "FlyingIndestructible (Damage and effects that say \"destroy\" don't destroy this creature. If its toughness is 0 or less, it's still put into its owner's graveyard.)",
+        "Flavour Text": "\"Angels? My feelings remain unchanged.\"\u2014Liliana Vess",
+        "Image URL": "http://magiccards.info/scans/akh/en/28.html",
+        "Mana Cost": "5WW",
+        "Name": "Seraph of the Suns",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Angel 4/4"
+    },
+    {
+        "Artist": "Nils Hamm",
+        "Description": "When Supply Caravan enters the battlefield, if you control a tapped creature, create a 1/1 white Warrior creature token with vigilance.",
+        "Flavour Text": "\"We each have a weight to carry on the road to the afterlife.\"\u2014Oketra, god of solidarity",
+        "Image URL": "http://magiccards.info/scans/akh/en/30.html",
+        "Mana Cost": "4W",
+        "Name": "Supply Caravan",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Camel 3/5"
+    },
+    {
+        "Artist": "Volkan Baga",
+        "Description": "None",
+        "Flavour Text": "\"The dead perform all the work here\u2014farming, building, teaching, even embalming their fellow mummies. The living need do nothing but train. What system could be more perfect?\"\u2014Temmet, vizier of Naktamun",
+        "Image URL": "http://magiccards.info/scans/akh/en/32.html",
+        "Mana Cost": "2W",
+        "Name": "Those Who Serve",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Zombie 2/4"
+    },
+    {
+        "Artist": "Daniel Ljunggren",
+        "Description": "When Trial of Solidarity enters the battlefield, creatures you control get +2/+1 and gain vigilance until end of turn.When a Cartouche enters the battlefield under your control, return Trial of Solidarity to its owner's hand.",
+        "Flavour Text": "\"You will succeed as one or fail as many.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/34.html",
+        "Mana Cost": "2W",
+        "Name": "Trial of Solidarity",
+        "Rarity": "Uncommon",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Greg Opalinski",
+        "Description": "VigilanceEmbalm {4}{W} ({4}{W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Warrior with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/36.html",
+        "Mana Cost": "2W",
+        "Name": "Unwavering Initiate",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Human Warrior 3/2"
+    },
+    {
+        "Artist": "Randy Gallegos",
+        "Description": "If one or more -1/-1 counters would be put on a creature you control, that many -1/-1 counters minus one are put on it instead.",
+        "Flavour Text": "\"You'll need all your strength for the trials to come.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/38.html",
+        "Mana Cost": "1W",
+        "Name": "Vizier of Remedies",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Human Cleric 2/1"
+    },
+    {
+        "Artist": "James Paick",
+        "Description": "None",
+        "Flavour Text": "The banks of the Luxa River attract all manner of predator but only the most resilient of prey.",
+        "Image URL": "http://magiccards.info/scans/akh/en/40.html",
+        "Mana Cost": "1UU",
+        "Name": "Ancient Crab",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Crab 1/5"
+    },
+    {
+        "Artist": "Tommy Arnold",
+        "Description": "At the beginning of your upkeep, put a time counter on As Foretold.Once each turn, you may pay {0} rather than pay the mana cost for a spell you cast with converted mana cost X or less, where X is the number of time counters on As Foretold.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/42.html",
+        "Mana Cost": "2U",
+        "Name": "As Foretold",
+        "Rarity": "Mythic Rare",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Mathias Kollros",
+        "Description": "Counter target spell.",
+        "Flavour Text": "\"Let me try one of Kefnet's puzzles. This one was too easy.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/44.html",
+        "Mana Cost": "1UU",
+        "Name": "Cancel",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "John Stanko",
+        "Description": "Counter target spell unless its controller pays {1}.Cycling {U} ({U}, Discard this card: Draw a card.)",
+        "Flavour Text": "\"Why so many questions?\"\u2014Temmet, vizier of Naktamun",
+        "Image URL": "http://magiccards.info/scans/akh/en/46.html",
+        "Mana Cost": "1U",
+        "Name": "Censor",
+        "Rarity": "Uncommon",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Lius Lasahido",
+        "Description": "Cryptic Serpent costs {1} less to cast for each instant and sorcery card in your graveyard.",
+        "Flavour Text": "It slithers through the senses, constricting consciousness and poisoning perceptions.",
+        "Image URL": "http://magiccards.info/scans/akh/en/48.html",
+        "Mana Cost": "5UU",
+        "Name": "Cryptic Serpent",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Serpent 6/5"
+    },
+    {
+        "Artist": "Vincent Proce",
+        "Description": "Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.",
+        "Flavour Text": "\"Eyes see only what is possible. A trained mind can explore the impossible.\"\u2014Kefnet, god of knowledge",
+        "Image URL": "http://magiccards.info/scans/akh/en/50.html",
+        "Mana Cost": "3U",
+        "Name": "Decision Paralysis",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Josh Hass",
+        "Description": "Counter target creature spell.",
+        "Flavour Text": "Dependence on luck is anathema to Kefnet's rigorous studies. Those who hope to escape his maze by chance never succeed.",
+        "Image URL": "http://magiccards.info/scans/akh/en/52.html",
+        "Mana Cost": "1U",
+        "Name": "Essence Scatter",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Mike Bierek",
+        "Description": "Return target tapped creature to its owner's hand.Draw a card.",
+        "Flavour Text": "Strong wings make strong winds.",
+        "Image URL": "http://magiccards.info/scans/akh/en/54.html",
+        "Mana Cost": "2U",
+        "Name": "Galestrike",
+        "Rarity": "Uncommon",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "James Ryman",
+        "Description": "Whenever you cycle or discard a card, Hekma Sentinels gets +1/+1 until end of turn.",
+        "Flavour Text": "\"The God-Pharaoh created the Hekma to protect us from the horrors beyond and to surround us in his love.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/56.html",
+        "Mana Cost": "2U",
+        "Name": "Hekma Sentinels",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Human Cleric 2/3"
+    },
+    {
+        "Artist": "Deruchenko Alexander",
+        "Description": "Enchant creatureEnchanted creature has base power and toughness 0/2.",
+        "Flavour Text": "\"No amount of strength can help you overcome my trial. You must be ready to forgo your body and favor your mind.\"\u2014Kefnet, god of knowledge",
+        "Image URL": "http://magiccards.info/scans/akh/en/58.html",
+        "Mana Cost": "2U",
+        "Name": "Illusory Wrappings",
+        "Rarity": "Common",
+        "Type": "Enchantment \u2014 Aura"
+    },
+    {
+        "Artist": "Yeong-Hao Han",
+        "Description": "When Labyrinth Guardian becomes the target of a spell, sacrifice it.Embalm {3}{U} ({3}{U}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Illusion Warrior with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/60.html",
+        "Mana Cost": "1U",
+        "Name": "Labyrinth Guardian",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Illusion Warrior 2/3"
+    },
+    {
+        "Artist": "Deruchenko Alexander",
+        "Description": "When Naga Oracle enters the battlefield, look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.",
+        "Flavour Text": "\"All questions will be answered during the Hour of Revelation.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/62.html",
+        "Mana Cost": "3U",
+        "Name": "Naga Oracle",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Naga Cleric 2/4"
+    },
+    {
+        "Artist": "Tyler Jacobson",
+        "Description": "X target creatures can't be blocked this turn. Until end of turn, those creatures gain \"Whenever this creature deals combat damage to a player, draw a card.\"",
+        "Flavour Text": "The one thing the Gatewatch didn't expect to find on a plane ruled by Nicol Bolas was perfection.",
+        "Image URL": "http://magiccards.info/scans/akh/en/64.html",
+        "Mana Cost": "XUU",
+        "Name": "Open into Wonder",
+        "Rarity": "Uncommon",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Christopher Moeller",
+        "Description": "River Serpent can't attack unless there are five or more cards in your graveyard.Cycling {U} ({U}, Discard this card: Draw a card.)",
+        "Flavour Text": "Though the Luxa River brings life to Naktamun, it's not without dangers.",
+        "Image URL": "http://magiccards.info/scans/akh/en/66.html",
+        "Mana Cost": "5U",
+        "Name": "River Serpent",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Serpent 5/5"
+    },
+    {
+        "Artist": "Bastien L. Deharme",
+        "Description": "{1}, {T}, Sacrifice Scribe of the Mindful: Return target instant or sorcery card from your graveyard to your hand.",
+        "Flavour Text": "\"The best answers solve more than one riddle.\"\u2014Kefnet, god of knowledge",
+        "Image URL": "http://magiccards.info/scans/akh/en/68.html",
+        "Mana Cost": "2U",
+        "Name": "Scribe of the Mindful",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Human Cleric 2/2"
+    },
+    {
+        "Artist": "Tony Foti",
+        "Description": "FlyingCycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "They are drawn by the brilliant blue glint of the mineral lazotep from the mines below.",
+        "Image URL": "http://magiccards.info/scans/akh/en/70.html",
+        "Mana Cost": "4U",
+        "Name": "Shimmerscale Drake",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Drake 3/4"
+    },
+    {
+        "Artist": "Victor Adame Minguez",
+        "Description": "Embalm {3}{U} ({3}{U}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Naga Warrior with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "Initiates live and train with their crop, the unit that begins the trials together.",
+        "Image URL": "http://magiccards.info/scans/akh/en/72.html",
+        "Mana Cost": "1U",
+        "Name": "Tah-Crop Skirmisher",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Naga Warrior 2/1"
+    },
+    {
+        "Artist": "Ryan Yee",
+        "Description": "You may have Vizier of Many Faces enter the battlefield as a copy of any creature on the battlefield, except if Vizier of Many Faces was embalmed, the token has no mana cost, it's white, and it's a Zombie in addition to its other types.Embalm {3}{U}{U}",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/74.html",
+        "Mana Cost": "2UU",
+        "Name": "Vizier of Many Faces",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Shapeshifter Cleric 0/0"
+    },
+    {
+        "Artist": "Mathias Kollros",
+        "Description": "Return target nonland permanent to its owner's hand. Each player puts the top two cards of his or her library into his or her graveyard.",
+        "Flavour Text": "\"I have foreseen that you will not pass my trial.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/76.html",
+        "Mana Cost": "1U",
+        "Name": "Winds of Rebuke",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Seb McKinnon",
+        "Description": "FlyingWhenever you cycle or discard another card, put a -1/-1 counter on each creature your opponents control.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/78.html",
+        "Mana Cost": "3BB",
+        "Name": "Archfiend of Ifnir",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Demon 5/4"
+    },
+    {
+        "Artist": "Nils Hamm",
+        "Description": "Flying{1}: Blighted Bat gains haste until end of turn.",
+        "Flavour Text": "Amonkhet's dual suns don't allow for the darkness of night, so bats are most active under the gloom of the frequent sandstorms.",
+        "Image URL": "http://magiccards.info/scans/akh/en/80.html",
+        "Mana Cost": "2B",
+        "Name": "Blighted Bat",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Zombie Bat 2/1"
+    },
+    {
+        "Artist": "Chase Stone",
+        "Description": "Menace, indestructibleBontu the Glorified can't attack or block unless a creature died under your control this turn.{1}{B}, Sacrifice another creature: Scry 1. Each opponent loses 1 life and you gain 1 life.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/82.html",
+        "Mana Cost": "2B",
+        "Name": "Bontu the Glorified",
+        "Rarity": "Mythic Rare",
+        "Type": "Legendary Creature \u2014 God 4/6"
+    },
+    {
+        "Artist": "Kieran Yanner",
+        "Description": "Enchant playerAt the beginning of enchanted player's upkeep, that player sacrifices a creature or planeswalker. If the player can't, he or she loses 5 life.",
+        "Flavour Text": "As Gideon watched the initiate murder his crop-mate, his admiration of the city of Naktamun gave way to horror.",
+        "Image URL": "http://magiccards.info/scans/akh/en/84.html",
+        "Mana Cost": "5BB",
+        "Name": "Cruel Reality",
+        "Rarity": "Mythic Rare",
+        "Type": "Enchantment \u2014 Aura Curse"
+    },
+    {
+        "Artist": "Mark Behm",
+        "Description": "Choose an artifact card name. Search target opponent's graveyard, hand, and library for any number of cards with the chosen name and exile them. Then that player shuffles his or her library.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/86.html",
+        "Mana Cost": "2B",
+        "Name": "Dispossess",
+        "Rarity": "Rare",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Josh Hass",
+        "Description": "Dread Wanderer enters the battlefield tapped.{2}{B}: Return Dread Wanderer from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery and only if you have one or fewer cards in hand.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/88.html",
+        "Mana Cost": "B",
+        "Name": "Dread Wanderer",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Zombie Jackal 2/1"
+    },
+    {
+        "Artist": "Raoul Vitale",
+        "Description": "Whenever you cycle or discard a card, you may pay {1}. If you do, each opponent loses 2 life and you gain 2 life.",
+        "Flavour Text": "\"The more I see of this place, the less I want to.\"\u2014Chandra Nalaar",
+        "Image URL": "http://magiccards.info/scans/akh/en/90.html",
+        "Mana Cost": "2B",
+        "Name": "Faith of the Devoted",
+        "Rarity": "Uncommon",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Sidharth Chaturvedi",
+        "Description": "Exile target creature.",
+        "Flavour Text": "Those who earn a glorious death are given the highest honor. They are carried on funeral barges through the gate to the afterlife.",
+        "Image URL": "http://magiccards.info/scans/akh/en/92.html",
+        "Mana Cost": "4B",
+        "Name": "Final Reward",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Christine Choi",
+        "Description": "Grim Strider gets -1/-1 for each card in your hand.",
+        "Flavour Text": "\"As a child I saw something walking in the distance, far beyond the Hekma\u2014shadow-dark, and taller than the gods. Even now, it passes through my dreams.\"\u2014Pytamun, initiate of Nef crop",
+        "Image URL": "http://magiccards.info/scans/akh/en/94.html",
+        "Mana Cost": "3B",
+        "Name": "Grim Strider",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Horror 6/6"
+    },
+    {
+        "Artist": "Karl Kopinski",
+        "Description": "Target opponent reveals his or her hand. You choose a nonlegendary, nonland card from it. That player discards that card.",
+        "Flavour Text": "\"True intentions lie not in the head but in the heart.\"\u2014Bontu, god of ambition",
+        "Image URL": "http://magiccards.info/scans/akh/en/96.html",
+        "Mana Cost": "1B",
+        "Name": "Lay Bare the Heart",
+        "Rarity": "Uncommon",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Kieran Yanner",
+        "Description": "Zombies you control get +1/+1.When Liliana's Mastery enters the battlefield, create two 2/2 black Zombie creature tokens.",
+        "Flavour Text": "\"There are so many of them. It seems they've just been waiting for someone to serve.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/98.html",
+        "Mana Cost": "3BB",
+        "Name": "Liliana's Mastery",
+        "Rarity": "Rare",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "E. M. Gist",
+        "Description": "When Miasmic Mummy enters the battlefield, each player discards a card.",
+        "Flavour Text": "Its breath doesn't assault the senses. It pollutes the mind.",
+        "Image URL": "http://magiccards.info/scans/akh/en/100.html",
+        "Mana Cost": "1B",
+        "Name": "Miasmic Mummy",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Zombie Jackal 2/2"
+    },
+    {
+        "Artist": "Adrian Majkrzak",
+        "Description": "Target player draws two cards and loses 2 life.",
+        "Flavour Text": "\"You wish to remember this lesson? I will write it down for you.\"\u2014Senifet, vizier of Bontu",
+        "Image URL": "http://magiccards.info/scans/akh/en/102.html",
+        "Mana Cost": "2B",
+        "Name": "Painful Lesson",
+        "Rarity": "Common",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Izzy",
+        "Description": "MenaceWhen Plague Belcher enters the battlefield, put two -1/-1 counters on target creature you control.Whenever another Zombie you control dies, each opponent loses 1 life.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/104.html",
+        "Mana Cost": "2B",
+        "Name": "Plague Belcher",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Zombie Beast 5/4"
+    },
+    {
+        "Artist": "Tony Foti",
+        "Description": "Exile up to three target cards from a single graveyard.Cycling {B} ({B}, Discard this card: Draw a card.)",
+        "Flavour Text": "\"The face of mediocrity is wrapped in anointed linen. Aspire to a better end.\"\u2014Epnokep, vizier of Bontu",
+        "Image URL": "http://magiccards.info/scans/akh/en/106.html",
+        "Mana Cost": "B",
+        "Name": "Scarab Feast",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Mike Burns",
+        "Description": "When Soulstinger enters the battlefield, put two -1/-1 counters on target creature you control.When Soulstinger dies, you may put a -1/-1 counter on target creature for each -1/-1 counter on Soulstinger.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/108.html",
+        "Mana Cost": "3B",
+        "Name": "Soulstinger",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Scorpion Demon 4/5"
+    },
+    {
+        "Artist": "David Gaillet",
+        "Description": "Create three 2/2 black Zombie creature tokens.Cycling {3}{B} ({3}{B}, Discard this card: Draw a card.)When you cycle Stir the Sands, create a 2/2 black Zombie creature token.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/110.html",
+        "Mana Cost": "4BB",
+        "Name": "Stir the Sands",
+        "Rarity": "Uncommon",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "David Palumbo",
+        "Description": "Enchant playerWhenever a creature enters the battlefield under enchanted player's control, that player loses 1 life and you gain 1 life.",
+        "Flavour Text": "Even in the relative safety of the city, there are places best left undisturbed.",
+        "Image URL": "http://magiccards.info/scans/akh/en/112.html",
+        "Mana Cost": "1B",
+        "Name": "Trespasser's Curse",
+        "Rarity": "Common",
+        "Type": "Enchantment \u2014 Aura Curse"
+    },
+    {
+        "Artist": "Svetlin Velinov",
+        "Description": "Target player discards two cards.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "\"Ambition requires clarity. If you have any doubts, they must be abandoned.\"\u2014Bontu, god of ambition",
+        "Image URL": "http://magiccards.info/scans/akh/en/114.html",
+        "Mana Cost": "1BB",
+        "Name": "Unburden",
+        "Rarity": "Common",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Yeong-Hao Han",
+        "Description": "DeathtouchCycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "All but the gods fear the scorpion's sting.",
+        "Image URL": "http://magiccards.info/scans/akh/en/116.html",
+        "Mana Cost": "2B",
+        "Name": "Wasteland Scorpion",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Scorpion 2/2"
+    },
+    {
+        "Artist": "Dan Scott",
+        "Description": "You may exert Battlefield Scavenger as it attacks. (It won't untap during your next untap step.)Whenever you exert a creature, you may discard a card. If you do, draw a card.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/118.html",
+        "Mana Cost": "1R",
+        "Name": "Battlefield Scavenger",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Jackal Rogue 2/2"
+    },
+    {
+        "Artist": "Anthony Palumbo",
+        "Description": "{T}: Target creature gains haste until end of turn.",
+        "Flavour Text": "\"To victory! To glory! To eternity!\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/120.html",
+        "Mana Cost": "R",
+        "Name": "Bloodlust Inciter",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Human Warrior 1/1"
+    },
+    {
+        "Artist": "Nils Hamm",
+        "Description": "Target creature gets +3/+1 and gains trample until end of turn.",
+        "Flavour Text": "\"Oketra had our crop build an obelisk to prove the power of working together. But I am stronger without the weak.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/122.html",
+        "Mana Cost": "1R",
+        "Name": "Brute Strength",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Kieran Yanner",
+        "Description": "Enchant creature you controlWhen Cartouche of Zeal enters the battlefield, target creature can't block this turn.Enchanted creature gets +1/+1 and has haste.",
+        "Flavour Text": "The fifth cartouche is the final affirmation of glory, granted only to the worthy dead.",
+        "Image URL": "http://magiccards.info/scans/akh/en/124.html",
+        "Mana Cost": "R",
+        "Name": "Cartouche of Zeal",
+        "Rarity": "Common",
+        "Type": "Enchantment \u2014 Aura Cartouche"
+    },
+    {
+        "Artist": "Svetlin Velinov",
+        "Description": "Enchant creatureEnchanted creature gets +3/+3 and has \"At the beginning of your upkeep, put a -1/-1 counter on this creature.\"",
+        "Flavour Text": "Headlong is the only way to pass through the gate to the afterlife.",
+        "Image URL": "http://magiccards.info/scans/akh/en/126.html",
+        "Mana Cost": "R",
+        "Name": "Consuming Fervor",
+        "Rarity": "Uncommon",
+        "Type": "Enchantment \u2014 Aura"
+    },
+    {
+        "Artist": "Igor Kieryluk",
+        "Description": "Cycling {R} ({R}, Discard this card: Draw a card.)",
+        "Flavour Text": "The endless expanse of desert surrounding Naktamun sometimes yields threats that the gods themselves must answer.",
+        "Image URL": "http://magiccards.info/scans/akh/en/128.html",
+        "Mana Cost": "5R",
+        "Name": "Desert Cerodon",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Beast 6/4"
+    },
+    {
+        "Artist": "Viktor Titov",
+        "Description": "You may exert Emberhorn Minotaur as it attacks. When you do, it gets +1/+1 and gains menace until end of turn. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "\"My stride will break only against the twin points of Hazoret's spear.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/130.html",
+        "Mana Cost": "3R",
+        "Name": "Emberhorn Minotaur",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Minotaur Warrior 4/3"
+    },
+    {
+        "Artist": "Lucas Graciano",
+        "Description": "As an additional cost to cast Fling, sacrifice a creature.Fling deals damage equal to the sacrificed creature's power to target creature or player.",
+        "Flavour Text": "Never flinch. Never falter. Never fear.",
+        "Image URL": "http://magiccards.info/scans/akh/en/132.html",
+        "Mana Cost": "1R",
+        "Name": "Fling",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Sam Burley",
+        "Description": "Flying, hasteYou may exert Glorybringer as it attacks. When you do, it deals 4 damage to target non-Dragon creature an opponent controls. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "What the initiates face in the final trial is completely at Hazoret's discretion.",
+        "Image URL": "http://magiccards.info/scans/akh/en/134.html",
+        "Mana Cost": "3RR",
+        "Name": "Glorybringer",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Dragon 4/4"
+    },
+    {
+        "Artist": "Chase Stone",
+        "Description": "Indestructible, hasteHazoret the Fervent can't attack or block unless you have one or fewer cards in hand.{2}{R}, Discard a card: Hazoret deals 2 damage to each opponent.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/136.html",
+        "Mana Cost": "3R",
+        "Name": "Hazoret the Fervent",
+        "Rarity": "Mythic Rare",
+        "Type": "Legendary Creature \u2014 God 5/4"
+    },
+    {
+        "Artist": "Scott Murphy",
+        "Description": "When Heart-Piercer Manticore enters the battlefield, you may sacrifice another creature. When you do, Heart-Piercer Manticore deals damage equal to that creature's power to target creature or player.Embalm {5}{R} ({5}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Manticore with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/138.html",
+        "Mana Cost": "2RR",
+        "Name": "Heart-Piercer Manticore",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Manticore 4/3"
+    },
+    {
+        "Artist": "Craig J Spearing",
+        "Description": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "\"When the time comes, only one of you will be honored by my spear.\"\u2014Hazoret, god of zeal",
+        "Image URL": "http://magiccards.info/scans/akh/en/140.html",
+        "Mana Cost": "3R",
+        "Name": "Limits of Solidarity",
+        "Rarity": "Uncommon",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "James Paick",
+        "Description": "When Manticore of the Gauntlet enters the battlefield, put a -1/-1 counter on target creature you control. Manticore of the Gauntlet deals 3 damage to target opponent.",
+        "Flavour Text": "In the training ground known as the Gauntlet, initiates are pushed to practice more destructive techniques.",
+        "Image URL": "http://magiccards.info/scans/akh/en/142.html",
+        "Mana Cost": "4R",
+        "Name": "Manticore of the Gauntlet",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Manticore 5/4"
+    },
+    {
+        "Artist": "Dan Scott",
+        "Description": "TrampleYou may exert Nef-Crop Entangler as it attacks. When you do, it gets +1/+2 until end of turn. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "\"If you do not feel the thrill of battle, alive like a flame, you will never triumph.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/144.html",
+        "Mana Cost": "1R",
+        "Name": "Nef-Crop Entangler",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Human Warrior 2/1"
+    },
+    {
+        "Artist": "Josu Hernaiz",
+        "Description": "{T}: Target creature with power 2 or less can't be blocked this turn.",
+        "Flavour Text": "\"The expected way through the trial is far too tedious.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/146.html",
+        "Mana Cost": "1R",
+        "Name": "Pathmaker Initiate",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Human Wizard 2/1"
+    },
+    {
+        "Artist": "Steve Argyle",
+        "Description": "ProwessIf a source you control would deal noncombat damage to a creature an opponent controls, put that many -1/-1 counters on that creature instead.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/148.html",
+        "Mana Cost": "R",
+        "Name": "Soul-Scar Mage",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Human Wizard 1/2"
+    },
+    {
+        "Artist": "Craig J Spearing",
+        "Description": "Thresher Lizard gets +1/+2 as long as you have one or fewer cards in hand.",
+        "Flavour Text": "The sound of its plated tail beating on desert rocks is often mistaken for the footfalls of a much larger predator.",
+        "Image URL": "http://magiccards.info/scans/akh/en/150.html",
+        "Mana Cost": "2R",
+        "Name": "Thresher Lizard",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Lizard 3/2"
+    },
+    {
+        "Artist": "Svetlin Velinov",
+        "Description": "When Trial of Zeal enters the battlefield, it deals 3 damage to target creature or player.When a Cartouche enters the battlefield under your control, return Trial of Zeal to its owner's hand.",
+        "Flavour Text": "\"Eternal glory awaits you, my child.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/152.html",
+        "Mana Cost": "2R",
+        "Name": "Trial of Zeal",
+        "Rarity": "Uncommon",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Jason Rainville",
+        "Description": "Destroy target artifact or land.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "Initiates in the heat of combat must be able to adapt to changing conditions.",
+        "Image URL": "http://magiccards.info/scans/akh/en/154.html",
+        "Mana Cost": "3R",
+        "Name": "Violent Impact",
+        "Rarity": "Common",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Tommy Arnold",
+        "Description": "Reveal the top five cards of your library. You may put a creature card and/or an enchantment card from among them into your hand. Put the rest into your graveyard.",
+        "Flavour Text": "It falls to the gods to help all become worthy of the afterlife.",
+        "Image URL": "http://magiccards.info/scans/akh/en/156.html",
+        "Mana Cost": "2G",
+        "Name": "Benefaction of Rhonas",
+        "Rarity": "Common",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Kieran Yanner",
+        "Description": "Enchant creature you controlWhen Cartouche of Strength enters the battlefield, you may have enchanted creature fight target creature an opponent controls. (Each deals damage equal to its power to the other.)Enchanted creature gets +1/+1 and has trample.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/158.html",
+        "Mana Cost": "2G",
+        "Name": "Cartouche of Strength",
+        "Rarity": "Common",
+        "Type": "Enchantment \u2014 Aura Cartouche"
+    },
+    {
+        "Artist": "Yongjae Choi",
+        "Description": "When Channeler Initiate enters the battlefield, put three -1/-1 counters on target creature you control.{T}, Remove a -1/-1 counter from Channeler Initiate: Add one mana of any color to your mana pool.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/160.html",
+        "Mana Cost": "1G",
+        "Name": "Channeler Initiate",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Human Druid 3/4"
+    },
+    {
+        "Artist": "Kev Walker",
+        "Description": "HasteWhen Crocodile of the Crossing enters the battlefield, put a -1/-1 counter on target creature you control.",
+        "Flavour Text": "\"Everything in the trial has teeth. You will overcome them, or you will feed them.\"\u2014Rhonas, god of strength",
+        "Image URL": "http://magiccards.info/scans/akh/en/162.html",
+        "Mana Cost": "3G",
+        "Name": "Crocodile of the Crossing",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Crocodile 5/4"
+    },
+    {
+        "Artist": "Bastien L. Deharme",
+        "Description": "Destroy target artifact.Cycling {G} ({G}, Discard this card: Draw a card.)",
+        "Flavour Text": "\"When all doubts have melted away, the worthy will meet the Hour of Eternity and earn a place at the God-Pharaoh's side.\"\u2014The Accounting of Hours",
+        "Image URL": "http://magiccards.info/scans/akh/en/164.html",
+        "Mana Cost": "1G",
+        "Name": "Dissenter's Deliverance",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Aaron Miller",
+        "Description": "Reach (This creature can block creatures with flying.)",
+        "Flavour Text": "The Broken Lands are littered with the remnants of civilizations long dead and infested by terrors very much alive.",
+        "Image URL": "http://magiccards.info/scans/akh/en/166.html",
+        "Mana Cost": "3G",
+        "Name": "Giant Spider",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Spider 2/4"
+    },
+    {
+        "Artist": "Steven Belledin",
+        "Description": "Greater Sandwurm can't be blocked by creatures with power 2 or less.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "A sandwurm can lie in wait beneath the sands for years until the slightest tremor alerts it to the presence of prey.",
+        "Image URL": "http://magiccards.info/scans/akh/en/168.html",
+        "Mana Cost": "5GG",
+        "Name": "Greater Sandwurm",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Wurm 7/7"
+    },
+    {
+        "Artist": "Shreya Shetty",
+        "Description": "Search your library for up to X basic land cards, where X is the number of tapped creatures you control, and put those cards onto the battlefield tapped. Then shuffle your library.",
+        "Flavour Text": "A true reflection of nature: death fostering life.",
+        "Image URL": "http://magiccards.info/scans/akh/en/170.html",
+        "Mana Cost": "2G",
+        "Name": "Harvest Season",
+        "Rarity": "Rare",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Todd Lockwood",
+        "Description": "TrampleEmbalm {3}{G} ({3}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Snake Hydra with no mana cost. Embalm only as a sorcery.)",
+        "Flavour Text": "Even gods have pets.",
+        "Image URL": "http://magiccards.info/scans/akh/en/172.html",
+        "Mana Cost": "5G",
+        "Name": "Honored Hydra",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Snake Hydra 6/6"
+    },
+    {
+        "Artist": "Dan Scott",
+        "Description": "Whenever Initiate's Companion deals combat damage to a player, untap target creature or land.",
+        "Flavour Text": "\"I'd like to say that it's our pet, but the reverse may be closer to the truth.\"\u2014Ixor, initiate of Rhet crop",
+        "Image URL": "http://magiccards.info/scans/akh/en/174.html",
+        "Mana Cost": "1G",
+        "Name": "Initiate's Companion",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Cat 3/1"
+    },
+    {
+        "Artist": "James Ryman",
+        "Description": "{T}: Add to your mana pool one mana of any type that a land you control could produce.",
+        "Flavour Text": "\"The lands of the God-Pharaoh are suffused with his breath.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/176.html",
+        "Mana Cost": "1G",
+        "Name": "Naga Vitalist",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Naga Druid 1/2"
+    },
+    {
+        "Artist": "Deruchenko Alexander",
+        "Description": "When Ornery Kudu enters the battlefield, put a -1/-1 counter on target creature you control.",
+        "Flavour Text": "Debate rages among the viziers whether comparing the kudu's horns to the God-Pharaoh's is blasphemy or reverence.",
+        "Image URL": "http://magiccards.info/scans/akh/en/178.html",
+        "Mana Cost": "2G",
+        "Name": "Ornery Kudu",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Antelope 3/4"
+    },
+    {
+        "Artist": "Tyler Jacobson",
+        "Description": "Prowling Serpopard can't be countered.Creature spells you control can't be countered.",
+        "Flavour Text": "The viziers serving Rhonas, the god of strength, maintain the menagerie of animals employed during his trial.",
+        "Image URL": "http://magiccards.info/scans/akh/en/180.html",
+        "Mana Cost": "1GG",
+        "Name": "Prowling Serpopard",
+        "Rarity": "Rare",
+        "Type": "Creature \u2014 Cat Snake 4/3"
+    },
+    {
+        "Artist": "Chase Stone",
+        "Description": "Deathtouch, indestructibleRhonas the Indomitable can't attack or block unless you control another creature with power 4 or greater.{2}{G}: Another target creature gets +2/+0 and gains trample until end of turn.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/182.html",
+        "Mana Cost": "2G",
+        "Name": "Rhonas the Indomitable",
+        "Rarity": "Mythic Rare",
+        "Type": "Legendary Creature \u2014 God 5/5"
+    },
+    {
+        "Artist": "Marco Nelor",
+        "Description": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+        "Flavour Text": "Surviving an encounter with it is proof enough that an initiate is ready for the Trial of Strength.",
+        "Image URL": "http://magiccards.info/scans/akh/en/184.html",
+        "Mana Cost": "4GG",
+        "Name": "Scaled Behemoth",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Crocodile 6/7"
+    },
+    {
+        "Artist": "Viktor Titov",
+        "Description": "Cycling {3}{G} ({3}{G}, Discard this card: Draw a card.)When you cycle Shefet Monitor, you may search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle your library. (Do this before you draw.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/186.html",
+        "Mana Cost": "5G",
+        "Name": "Shefet Monitor",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Lizard 6/5"
+    },
+    {
+        "Artist": "Dan Scott",
+        "Description": "Untap target creature. It gets +2/+4 and gains reach until end of turn. (It can block creatures with flying.)",
+        "Flavour Text": "There are no safe paths through the Trial of Strength.",
+        "Image URL": "http://magiccards.info/scans/akh/en/188.html",
+        "Mana Cost": "2G",
+        "Name": "Spidery Grasp",
+        "Rarity": "Common",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "David Palumbo",
+        "Description": "Untap up to two target creatures. They each get +2/+2 until end of turn.",
+        "Flavour Text": "Khenra are almost always born as twins. Their instinctual connection lends itself well to their preferred fighting style.",
+        "Image URL": "http://magiccards.info/scans/akh/en/190.html",
+        "Mana Cost": "2G",
+        "Name": "Synchronized Strike",
+        "Rarity": "Uncommon",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Victor Adame Minguez",
+        "Description": "You may look at the top card of your library. (You may do this at any time.)You may cast the top card of your library if it's a creature card.You may spend mana as though it were mana of any type to cast creature spells.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/192.html",
+        "Mana Cost": "3G",
+        "Name": "Vizier of the Menagerie",
+        "Rarity": "Mythic Rare",
+        "Type": "Creature \u2014 Naga Cleric 3/4"
+    },
+    {
+        "Artist": "Craig J Spearing",
+        "Description": "You may exert Ahn-Crop Champion as it attacks. When you do, untap all other creatures you control. (An exerted creature won't untap during your next untap step.)",
+        "Flavour Text": "\"The Second Sun nears its destination! Let it light the way to ours!\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/194.html",
+        "Mana Cost": "2WG",
+        "Name": "Ahn-Crop Champion",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Human Warrior 4/4"
+    },
+    {
+        "Artist": "Jonas De Ro",
+        "Description": "At the beginning of your precombat main phase, remove all flood counters from Bounty of the Luxa. If no counters were removed this way, put a flood counter on Bounty of the Luxa and draw a card. Otherwise, add {C}{G}{U} to your mana pool.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/196.html",
+        "Mana Cost": "2UG",
+        "Name": "Bounty of the Luxa",
+        "Rarity": "Rare",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Steve Argyle",
+        "Description": "FlyingEnigma Drake's power is equal to the number of instant and sorcery cards in your graveyard.",
+        "Flavour Text": "Many initiates believe it possesses secrets known only to Kefnet himself. Many have become meals trying to learn them.",
+        "Image URL": "http://magiccards.info/scans/akh/en/198.html",
+        "Mana Cost": "1UR",
+        "Name": "Enigma Drake",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Drake */4"
+    },
+    {
+        "Artist": "Sara Winters",
+        "Description": "Whenever Honored Crop-Captain attacks, other attacking creatures get +1/+0 until end of turn.",
+        "Flavour Text": "Her words inspire action. Her actions inspire victory.",
+        "Image URL": "http://magiccards.info/scans/akh/en/200.html",
+        "Mana Cost": "WR",
+        "Name": "Honored Crop-Captain",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Human Warrior 3/2"
+    },
+    {
+        "Artist": "Nils Hamm",
+        "Description": "{2}, Discard a card: Put a -1/-1 counter on target creature. That creature can't block this turn.",
+        "Flavour Text": "\"My mind is the calm in the midst of the storm, and my javelin the lightning.\"",
+        "Image URL": "http://magiccards.info/scans/akh/en/202.html",
+        "Mana Cost": "2BR",
+        "Name": "Merciless Javelineer",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Minotaur Warrior 4/2"
+    },
+    {
+        "Artist": "Howard Lyon",
+        "Description": "+2: Scry 2.0: Look at the top card of your library. If it's a land card or a creature card with converted mana cost less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield.\u22126: Untap up to two target lands you control. They become 5/5 Elemental creatures with flying and haste until end of turn. They're still lands.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/204.html",
+        "Mana Cost": "XUG",
+        "Name": "Nissa, Steward of Elements",
+        "Rarity": "Mythic Rare",
+        "Type": "Planeswalker \u2014 Nissa"
+    },
+    {
+        "Artist": "Yongjae Choi",
+        "Description": "FlyingWhenever you cycle or discard a card, Shadowstorm Vizier gets +1/+1 until end of turn.",
+        "Flavour Text": "She can coil a breeze like a string around her finger\u2014or twist it into a noose.",
+        "Image URL": "http://magiccards.info/scans/akh/en/206.html",
+        "Mana Cost": "UB",
+        "Name": "Shadowstorm Vizier",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Human Cleric 1/3"
+    },
+    {
+        "Artist": "Anthony Palumbo",
+        "Description": "Whenever another Zombie enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.",
+        "Flavour Text": "If one of the anointed fails to serve with perfect obedience, the desert is always ready to receive it.",
+        "Image URL": "http://magiccards.info/scans/akh/en/208.html",
+        "Mana Cost": "WB",
+        "Name": "Wayward Servant",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Zombie 2/2"
+    },
+    {
+        "Artist": "Noah Bradley",
+        "Description": "Destroy all creatures with power 3 or greater.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/210a.html",
+        "Mana Cost": "2WW",
+        "Name": "Dusk (Dusk/Dawn)",
+        "Rarity": "Rare",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Daarken",
+        "Description": "Destroy target creature or planeswalker.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/212a.html",
+        "Mana Cost": "1BB",
+        "Name": "Never (Never/Return)",
+        "Rarity": "Rare",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Zack Stella",
+        "Description": "Create a 3/3 green Hippo creature token.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/214a.html",
+        "Mana Cost": "2G",
+        "Name": "Mouth (Mouth/Feed)",
+        "Rarity": "Rare",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Eric Deschamps",
+        "Description": "Counter target spell unless its controller pays {3}.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/216a.html",
+        "Mana Cost": "2U",
+        "Name": "Reduce (Reduce/Rubble)",
+        "Rarity": "Uncommon",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Grzegorz Rutkowski",
+        "Description": "Target creature gets +X/+0 until end of turn, where X is its power.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/218a.html",
+        "Mana Cost": "2R",
+        "Name": "Onward (Onward/Victory)",
+        "Rarity": "Uncommon",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Zack Stella",
+        "Description": "Untap target creature. It gets +2/+2 and gains lifelink until end of turn.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/220a.html",
+        "Mana Cost": "1W",
+        "Name": "Prepare (Prepare/Fight)",
+        "Rarity": "Rare",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Greg Opalinski",
+        "Description": "All creatures get -2/-2 until end of turn.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/222a.html",
+        "Mana Cost": "2BB",
+        "Name": "Rags (Rags/Riches)",
+        "Rarity": "Rare",
+        "Type": "Sorcery"
+    },
+    {
+        "Artist": "Jonas De Ro",
+        "Description": "Heaven deals X damage to each creature with flying.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/224a.html",
+        "Mana Cost": "XG",
+        "Name": "Heaven (Heaven/Earth)",
+        "Rarity": "Rare",
+        "Type": "Instant"
+    },
+    {
+        "Artist": "Florian de Gesincourt",
+        "Description": "{1}, {T}: Target creature can't attack this turn. Put a brick counter on Edifice of Authority.{1}, {T}: Until your next turn, target creature can't attack or block and its activated abilities can't be activated. Activate this ability only if there are three or more brick counters on Edifice of Authority.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/226.html",
+        "Mana Cost": "3",
+        "Name": "Edifice of Authority",
+        "Rarity": "Uncommon",
+        "Type": "Artifact"
+    },
+    {
+        "Artist": "Christine Choi",
+        "Description": "Whenever a nontoken creature you control dies, you gain 1 life. Then you may draw a card. If you do, discard a card.{2}, {T}, Sacrifice Gate to the Afterlife: Search your graveyard, hand, and/or library for a card named God-Pharaoh's Gift and put it onto the battlefield. If you search your library this way, shuffle it. Activate this ability only if there are six or more creature cards in your graveyard.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/228.html",
+        "Mana Cost": "3",
+        "Name": "Gate to the Afterlife",
+        "Rarity": "Uncommon",
+        "Type": "Artifact"
+    },
+    {
+        "Artist": "Aaron Miller",
+        "Description": "Equipped creature gets +1/+1.Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+        "Flavour Text": "Blades and bravery go hand in hand.",
+        "Image URL": "http://magiccards.info/scans/akh/en/230.html",
+        "Mana Cost": "1",
+        "Name": "Honed Khopesh",
+        "Rarity": "Common",
+        "Type": "Artifact \u2014 Equipment"
+    },
+    {
+        "Artist": "Sung Choi",
+        "Description": "{1}, {T}: You gain 1 life. Put a brick counter on Luxa River Shrine.{T}: You gain 2 life. Activate this ability only if there are three or more brick counters on Luxa River Shrine.",
+        "Flavour Text": "Without the God-Pharaoh, there would be no Luxa. Without the Luxa, there would be no life.",
+        "Image URL": "http://magiccards.info/scans/akh/en/232.html",
+        "Mana Cost": "3",
+        "Name": "Luxa River Shrine",
+        "Rarity": "Common",
+        "Type": "Artifact"
+    },
+    {
+        "Artist": "Jonas De Ro",
+        "Description": "{2}, {T}: Exile the top card of your library. Until end of turn, you may play that card. Put a brick counter on Oracle's Vault.{T}: Exile the top card of your library. Until end of turn, you may play that card without paying its mana cost. Activate this ability only if there are three or more brick counters on Oracle's Vault.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/234.html",
+        "Mana Cost": "4",
+        "Name": "Oracle's Vault",
+        "Rarity": "Rare",
+        "Type": "Artifact"
+    },
+    {
+        "Artist": "Cliff Childs",
+        "Description": "Green creature spells you cast cost {1} less to cast.Whenever you cast a creature spell, target creature you control gets +2/+2 and gains trample until end of turn.",
+        "Flavour Text": "\"The worthy shall hone a strong body to endure the boundless energies of the afterlife.\"\u2014Monument inscription",
+        "Image URL": "http://magiccards.info/scans/akh/en/236.html",
+        "Mana Cost": "3",
+        "Name": "Rhonas's Monument",
+        "Rarity": "Uncommon",
+        "Type": "Legendary Artifact"
+    },
+    {
+        "Artist": "Joseph Meehan",
+        "Description": "Exile Watchers of the Dead: Each opponent chooses two cards in his or her graveyard and exiles the rest.",
+        "Flavour Text": "They are tasked with protecting the entrance to the embalming chambers.",
+        "Image URL": "http://magiccards.info/scans/akh/en/238.html",
+        "Mana Cost": "2",
+        "Name": "Watchers of the Dead",
+        "Rarity": "Uncommon",
+        "Type": "Artifact Creature \u2014 Cat 2/2"
+    },
+    {
+        "Artist": "Noah Bradley",
+        "Description": "Indestructible{T}: Add {C} to your mana pool.{5}, {T}: Add five mana in any combination of colors to your mana pool.",
+        "Flavour Text": "\"The power that flows here cannot be denied. But where is the source?\"\u2014Nissa Revane",
+        "Image URL": "http://magiccards.info/scans/akh/en/240.html",
+        "Mana Cost": "None",
+        "Name": "Cascading Cataracts",
+        "Rarity": "Rare",
+        "Type": "Land"
+    },
+    {
+        "Artist": "Christine Choi",
+        "Description": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
+        "Flavour Text": "\"Don't you ever wonder what lies beyond the Hekma? Beyond the reach of the gods? Beyond the horns on the horizon?\"\u2014Samut, initiate of Tah crop",
+        "Image URL": "http://magiccards.info/scans/akh/en/242.html",
+        "Mana Cost": "None",
+        "Name": "Evolving Wilds",
+        "Rarity": "Common",
+        "Type": "Land"
+    },
+    {
+        "Artist": "Daarken",
+        "Description": "{T}: Add {C} to your mana pool.{1}, {T}, Sacrifice Grasping Dunes: Put a -1/-1 counter on target creature. Activate this ability only any time you could cast a sorcery.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/244.html",
+        "Mana Cost": "None",
+        "Name": "Grasping Dunes",
+        "Rarity": "Uncommon",
+        "Type": "Land \u2014 Desert"
+    },
+    {
+        "Artist": "Mark Poole",
+        "Description": "{T}: Add {C} to your mana pool.{1}, {T}: Add one mana of any color to your mana pool.",
+        "Flavour Text": "Centuries of scouring sands have carved and polished the rocky terrain of the Shefet Desert.",
+        "Image URL": "http://magiccards.info/scans/akh/en/246.html",
+        "Mana Cost": "None",
+        "Name": "Painted Bluffs",
+        "Rarity": "Common",
+        "Type": "Land \u2014 Desert"
+    },
+    {
+        "Artist": "Sung Choi",
+        "Description": "({T}: Add {R} or {G} to your mana pool.)Sheltered Thicket enters the battlefield tapped.Cycling {2} ({2}, Discard this card: Draw a card.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/248.html",
+        "Mana Cost": "None",
+        "Name": "Sheltered Thicket",
+        "Rarity": "Rare",
+        "Type": "Land \u2014 Mountain Forest"
+    },
+    {
+        "Artist": "Titus Lunter",
+        "Description": "({T}: Add {W} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/250.html",
+        "Mana Cost": "None",
+        "Name": "Plains",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Plains"
+    },
+    {
+        "Artist": "Clint Cearley",
+        "Description": "({T}: Add {B} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/252.html",
+        "Mana Cost": "None",
+        "Name": "Swamp",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Swamp"
+    },
+    {
+        "Artist": "Yeong-Hao Han",
+        "Description": "({T}: Add {G} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/254.html",
+        "Mana Cost": "None",
+        "Name": "Forest",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Forest"
+    },
+    {
+        "Artist": "Jonas De Ro",
+        "Description": "({T}: Add {W} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/256.html",
+        "Mana Cost": "None",
+        "Name": "Plains",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Plains"
+    },
+    {
+        "Artist": "Jonas De Ro",
+        "Description": "({T}: Add {U} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/258.html",
+        "Mana Cost": "None",
+        "Name": "Island",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Island"
+    },
+    {
+        "Artist": "Mark Poole",
+        "Description": "({T}: Add {U} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/260.html",
+        "Mana Cost": "None",
+        "Name": "Island",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Island"
+    },
+    {
+        "Artist": "Jonas De Ro",
+        "Description": "({T}: Add {B} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/262.html",
+        "Mana Cost": "None",
+        "Name": "Swamp",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Swamp"
+    },
+    {
+        "Artist": "Jonas De Ro",
+        "Description": "({T}: Add {R} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/264.html",
+        "Mana Cost": "None",
+        "Name": "Mountain",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Mountain"
+    },
+    {
+        "Artist": "Chris Rahn",
+        "Description": "({T}: Add {R} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/266.html",
+        "Mana Cost": "None",
+        "Name": "Mountain",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Mountain"
+    },
+    {
+        "Artist": "Titus Lunter",
+        "Description": "({T}: Add {G} to your mana pool.)",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/268.html",
+        "Mana Cost": "None",
+        "Name": "Forest",
+        "Rarity": "Land",
+        "Type": "Basic Land \u2014 Forest"
+    },
+    {
+        "Artist": "Daarken",
+        "Description": "+2: Untap all creatures you control. Those creatures get +1/+1 until end of turn.0: Until end of turn, Gideon, Martial Paragon becomes a 5/5 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.\u221210: Creatures you control get +2/+2 until end of turn. Tap all creatures your opponents control.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/270.html",
+        "Mana Cost": "4W",
+        "Name": "Gideon, Martial Paragon",
+        "Rarity": "Mythic Rare",
+        "Type": "Planeswalker \u2014 Gideon (Loyalty: 5)"
+    },
+    {
+        "Artist": "Jakub Kasper",
+        "Description": "When Gideon's Resolve enters the battlefield, you may search your library and/or graveyard for a card named Gideon, Martial Paragon, reveal it, and put it into your hand. If you search your library this way, shuffle it.Creatures you control get +1/+1.",
+        "Flavour Text": "",
+        "Image URL": "http://magiccards.info/scans/akh/en/272.html",
+        "Mana Cost": "4W",
+        "Name": "Gideon's Resolve",
+        "Rarity": "Rare",
+        "Type": "Enchantment"
+    },
+    {
+        "Artist": "Florian de Gesincourt",
+        "Description": "Stone Quarry enters the battlefield tapped.{T}: Add {R} or {W} to your mana pool.",
+        "Flavour Text": "Entire valleys have been formed by mummies laboring to find veins of lazotep.",
+        "Image URL": "http://magiccards.info/scans/akh/en/274.html",
+        "Mana Cost": "None",
+        "Name": "Stone Quarry",
+        "Rarity": "Common",
+        "Type": "Land"
+    },
+    {
+        "Artist": "Svetlin Velinov",
+        "Description": "{3}{B}: Target opponent loses 2 life and you gain 2 life. Activate this ability only if you control a Liliana planeswalker.",
+        "Flavour Text": "\"The nature of this plane makes it almost too easy for me to command the dead.\"\u2014Liliana Vess",
+        "Image URL": "http://magiccards.info/scans/akh/en/276.html",
+        "Mana Cost": "2B",
+        "Name": "Desiccated Naga",
+        "Rarity": "Uncommon",
+        "Type": "Creature \u2014 Zombie Naga 3/2"
+    },
+    {
+        "Artist": "Slawomir Maniak",
+        "Description": "When Tattered Mummy dies, each opponent loses 2 life.",
+        "Flavour Text": "The dead who wander beyond the safety of the city crave only to spread their curse.",
+        "Image URL": "http://magiccards.info/scans/akh/en/278.html",
+        "Mana Cost": "1B",
+        "Name": "Tattered Mummy",
+        "Rarity": "Common",
+        "Type": "Creature \u2014 Zombie Jackal 1/2"
+    },
+    {
+        "Artist": "Cliff Childs",
+        "Description": "Cinder Barrens enters the battlefield tapped.{T}: Add {B} or {R} to your mana pool.",
+        "Flavour Text": "A mudflow swallowed the lowlands years ago. All that remains are a bottomless mire and an endless rain of ash.",
+        "Image URL": "http://magiccards.info/scans/akh/en/280.html",
+        "Mana Cost": "None",
+        "Name": "Cinder Barrens",
+        "Rarity": "Common",
+        "Type": "Land"
+    },
+    {
+        "Artist": "Florian de Gesincourt",
+        "Description": "Highland Lake enters the battlefield tapped.{T}: Add {U} or {R} to your mana pool.",
+        "Flavour Text": "With the fate of Innistrad uncertain, some seek solace in remote areas.",
+        "Image URL": "http://magiccards.info/scans/akh/en/282.html",
+        "Mana Cost": "None",
+        "Name": "Highland Lake",
+        "Rarity": "Common",
+        "Type": "Land"
+    },
+    {
+        "Artist": "Christine Choi",
+        "Description": "Submerged Boneyard enters the battlefield tapped.{T}: Add {U} or {B} to your mana pool.",
+        "Flavour Text": "Aether currents in the sky mirror water currents below, including the deadly rapids.",
+        "Image URL": "http://magiccards.info/scans/akh/en/284.html",
+        "Mana Cost": "None",
+        "Name": "Submerged Boneyard",
+        "Rarity": "Common",
+        "Type": "Land"
+    },
+    {
+        "Artist": "Sam Burley",
+        "Description": "Tranquil Expanse enters the battlefield tapped.{T}: Add {G} or {W} to your mana pool.",
+        "Flavour Text": "Beyond the chaos of Ghirapur lies a vibrant world where aether flows through nature.",
+        "Image URL": "http://magiccards.info/scans/akh/en/286.html",
+        "Mana Cost": "None",
+        "Name": "Tranquil Expanse",
+        "Rarity": "Common",
+        "Type": "Land"
+    },
+    []
+]
